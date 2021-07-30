@@ -3170,3 +3170,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-09.05.55:203][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
 [2021.07.30-09.05.55:223][412]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2021.07.30-09.05.58:619][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.30-09.07.17:143][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.30-09.07.17:178][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.30-09.07.17:198][473]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖87244096499FFDD5AD89BFA1D4471F09.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap'
+[2021.07.30-09.07.17:377][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖_BuiltData" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖_BuiltData.uasset" SILENT=true
+[2021.07.30-09.07.17:390][473]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖_BuiltData9E9799C548C28265C9F4509DF5855283.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖_BuiltData.uasset'
+[2021.07.30-09.07.17:405][473]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.30-09.07.17:405][473]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲地圖_BuiltData.遊戲地圖_BuiltData
+[2021.07.30-09.07.17:405][473]LogContentValidation: Display: Validating World /Game/地圖/遊戲地圖.遊戲地圖
+[2021.07.30-09.07.18:114][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
