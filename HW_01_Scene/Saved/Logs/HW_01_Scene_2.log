@@ -805,3 +805,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-03.59.01:757][153]LogTexture: Display: Building textures: 玩家小地圖顯示 (BGRA8, 25X25)
 [2021.07.30-03.59.01:758][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\準心.png)
 [2021.07.30-03.59.01:759][153]LogTexture: Display: Building textures: 準心 (BGRA8, 30X30)
+[2021.07.30-03.59.36:201][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.30-03.59.37:225][273]LogSlate: Window 'Save Content' being destroyed
+[2021.07.30-03.59.37:270][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/地圖.uasset" SILENT=true
+[2021.07.30-03.59.37:280][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/地圖2C64704547A3F104E61034B7B8E7B477.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/地圖.uasset'
+[2021.07.30-03.59.37:281][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/準心" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/準心.uasset" SILENT=true
+[2021.07.30-03.59.37:282][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/準心77A4238E4B03F1F3D00F4B8986A4D48B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/準心.uasset'
+[2021.07.30-03.59.37:283][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/玩家小地圖顯示" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/玩家小地圖顯示.uasset" SILENT=true
+[2021.07.30-03.59.37:292][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/玩家小地圖顯示29EAF60D447EA066634026968228C292.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/玩家小地圖顯示.uasset'
+[2021.07.30-03.59.37:293][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/血量" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血量.uasset" SILENT=true
+[2021.07.30-03.59.37:295][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/血量B1BC16534B9A4BBAAD40B08B2377E85B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血量.uasset'
+[2021.07.30-03.59.37:296][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/血量ICON" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血量ICON.uasset" SILENT=true
+[2021.07.30-03.59.37:298][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/血量ICOND132470A4BBA91E5635D22B7A7EB9D98.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血量ICON.uasset'
+[2021.07.30-03.59.37:299][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/護盾ICON" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/護盾ICON.uasset" SILENT=true
+[2021.07.30-03.59.37:300][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/護盾ICONEAB08558465BE5F69DA09A8334AC854A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/護盾ICON.uasset'
+[2021.07.30-03.59.37:310][273]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/準心.準心
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/玩家小地圖顯示.玩家小地圖顯示
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/地圖.地圖
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/血量.血量
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/血量ICON.血量ICON
+[2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/護盾ICON.護盾ICON
