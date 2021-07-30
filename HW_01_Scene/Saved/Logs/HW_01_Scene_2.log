@@ -847,3 +847,149 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-05.05.15:184][ 64]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面0A4EBECE4F4F7033EFC5FE903E5E9149.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
 [2021.07.30-05.05.15:196][ 64]AssetCheck: New page: Asset Save: BP_遊戲介面
 [2021.07.30-05.05.15:196][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.08.37:715][384]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.08.37:718][384]LogProperty: Warning: Serialized Class /Script/UMG.Image for a property of Class /Script/UMG.ProgressBar. Reference will be nullptred.
+    Property = ObjectProperty /Game/BP/BP_遊戲介面.BP_遊戲介面_C:血條
+    Item = Image /Engine/Transient.World_4:REINST_BP_遊戲介面_C_0.WidgetTree.血條
+[2021.07.30-05.08.37:718][384]LogProperty: Warning: Serialized Class /Script/UMG.Image for a property of Class /Script/UMG.ProgressBar. Reference will be nullptred.
+    Property = ObjectProperty /Game/BP/BP_遊戲介面.BP_遊戲介面_C:護盾條
+    Item = Image /Engine/Transient.World_4:REINST_BP_遊戲介面_C_0.WidgetTree.護盾條
+[2021.07.30-05.08.37:752][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.30-05.08.38:761][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.08.38:766][497]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面3239A22F4459E83EEC48B894CF10CD88.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.08.38:778][497]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.08.38:778][497]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.08.39:759][610]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.08.39:794][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.07.30-05.09.49:023][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.30-05.09.49:025][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.024
+[2021.07.30-05.09.49:025][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([2] browsable assets)...
+[2021.07.30-05.09.49:025][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.07.30-05.09.49:025][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-05.09.49:031][985]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面_Auto1DFA80A24451AEC09CA42AC91AF109BA9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto1.uasset'
+[2021.07.30-05.09.49:031][985]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.07.30-05.10.46:933][100]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.10.57:982][346]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2021.07.30-05.11.17:735][630]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.11.17:760][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.30-05.11.18:453][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.11.18:459][705]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面FDD01A7E41A0A57BD4A1D8B824663991.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.11.18:470][705]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.11.18:470][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.11.21:904][117]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3e432869-80db-44aa-857d-68f5885a0298}.
+[2021.07.30-05.11.21:904][117]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.30-05.11.21:950][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-05.11.21:950][117]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-05.11.27:055][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.11.27:060][712]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面6FE6EC0246408C22CFE842933BC859AC.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.11.27:071][712]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.11.27:071][712]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.15.07:860][137]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.15.15:092][999]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.15.15:129][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.30-05.16.24:384][ 62]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0ea44ba0-ae43-41d4-bcc5-94752b5c1d3b}.
+[2021.07.30-05.16.24:384][ 62]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.30-05.16.24:408][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-05.16.24:408][ 62]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-05.19.49:648][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.07.30-05.19.49:649][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.026
+[2021.07.30-05.19.49:649][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([2] browsable assets)...
+[2021.07.30-05.19.49:649][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.07.30-05.19.49:649][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-05.19.49:655][917]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面_Auto2F17744A047F63E4DC279259E295716E8.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto2.uasset'
+[2021.07.30-05.19.49:655][917]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.07.30-05.23.38:769][195]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.23.46:476][ 75]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.23.50:636][561]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.23.59:454][597]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.08:071][603]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.24:607][541]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.27:528][825]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.31:531][282]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.37:471][969]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.42:122][504]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.30-05.24.44:039][721]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.24.44:066][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.07.30-05.25.57:778][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2021.07.30-05.28.21:837][667]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.28.21:864][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.30-05.28.44:420][343]LogEditorTransaction: Undo Edit Left
+[2021.07.30-05.28.44:932][358]LogEditorTransaction: Undo Edit Left
+[2021.07.30-05.28.45:400][411]LogEditorTransaction: Undo Edit Left
+[2021.07.30-05.28.56:486][516]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.30-05.28.56:486][516]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟輸入法).
+[2021.07.30-05.28.57:918][621]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.30-05.29.15:864][510]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.30-05.29.15:864][510]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟注音).
+[2021.07.30-05.29.32:233][438]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.29.32:261][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.07.30-05.29.59:903][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.07.30-05.29.59:903][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.023
+[2021.07.30-05.29.59:903][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([2] browsable assets)...
+[2021.07.30-05.29.59:904][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.07.30-05.29.59:904][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-05.29.59:909][921]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面_Auto35AB5FF4743DC10EA1CF1FD9DDA715312.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto3.uasset'
+[2021.07.30-05.29.59:910][921]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.07.30-05.33.53:414][610]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.30-05.33.54:196][650]LogEditorTransaction: Undo Duplicate selection
+[2021.07.30-05.34.51:013][398]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.34.51:041][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.30-05.35.40:508][296]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.35.40:534][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.07.30-05.41.09:561][267]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.30-05.43.41:564][196]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.43.41:593][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.30-05.45.54:224][496]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.45.54:254][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.07.30-05.49.28:750][924]LogEditorTransaction: Undo Resize Widget
+[2021.07.30-05.50.03:591][999]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.50.03:621][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.07.30-05.50.32:546][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.07.30-05.50.32:547][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.031
+[2021.07.30-05.50.32:547][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([2] browsable assets)...
+[2021.07.30-05.50.32:547][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.07.30-05.50.32:547][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-05.50.32:555][656]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面_Auto4A9A2E6AE46D4F3CE07AD17BE63CC5804.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto4.uasset'
+[2021.07.30-05.50.32:556][656]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.07.30-05.53.13:187][739]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.53.13:215][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.07.30-05.53.13:907][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.53.13:916][814]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面27C0A9954DDE47C4E5D91C8D4ADBF530.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.53.13:928][814]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.53.13:928][814]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.53.21:339][690]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.53.21:377][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.30-05.53.21:891][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.53.21:899][743]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面70303A3F405D05382D4D2EBCB87F667C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.53.21:910][743]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.53.21:910][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.55.19:687][770]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.55.19:725][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.30-05.55.20:233][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.55.20:242][822]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面D585E0894589CF5A644070A8C92A7A55.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.55.20:254][822]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.55.20:254][822]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.55.53:548][775]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.55.53:586][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.07.30-05.55.55:251][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.55.55:259][966]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面93DB3AE14DBFA44E0FA2AF9B6E125A81.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.55.55:270][966]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.55.55:270][966]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.57.22:055][308]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.57.22:093][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.30-05.57.22:757][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.57.22:765][375]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面2E9AC8F244D2760713ABE0A09A29BEA9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.57.22:777][375]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.57.22:777][375]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.57.38:930][303]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.57.38:968][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.07.30-05.57.39:591][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.57.39:599][369]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面3F3D544F4DE7D7E72D1C1A96FE55D09C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.57.39:611][369]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.57.39:611][369]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-05.57.48:606][417]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.57.48:644][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.30-05.57.50:108][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.57.50:117][576]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面927EEF6C436F29C452EA16B1F49BC004.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.57.50:128][576]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.57.50:128][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
