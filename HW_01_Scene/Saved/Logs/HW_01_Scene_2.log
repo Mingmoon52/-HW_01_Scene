@@ -993,3 +993,131 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-05.57.50:117][576]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面927EEF6C436F29C452EA16B1F49BC004.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
 [2021.07.30-05.57.50:128][576]AssetCheck: New page: Asset Save: BP_遊戲介面
 [2021.07.30-05.57.50:128][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-06.06.24:503][764]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-06.06.24:543][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.07.30-06.06.25:077][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-06.06.25:086][817]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面4D99828B4CB5363E23E1C6BB80447638.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-06.06.25:096][817]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-06.06.25:096][817]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-06.06.29:299][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.06.30:801][141]LogSlate: Took 0.039827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.30-06.09.06:210][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.07.30-06.09.06:212][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.036
+[2021.07.30-06.09.06:212][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([2] browsable assets)...
+[2021.07.30-06.09.06:213][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.07.30-06.09.06:213][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-06.09.06:221][ 55]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面_Auto52B71ABC24D0571FD1BF2468E807BB6BF.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto5.uasset'
+[2021.07.30-06.09.06:222][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_玩家控制] ([1] browsable assets)...
+[2021.07.30-06.09.06:233][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_玩家控制.BP_玩家控制]
+[2021.07.30-06.09.06:233][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_玩家控制]
+[2021.07.30-06.09.06:233][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_玩家控制_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.07.30-06.09.06:581][ 55]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制_Auto57840F20144B9DA84282AACA076A0FEC5.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_玩家控制_Auto5.uasset'
+[2021.07.30-06.09.06:582][ 55]LogFileHelpers: Auto-saving content packages took 0.369
+[2021.07.30-06.09.48:538][919]BlueprintLog: New page: Compile BP_玩家控制
+[2021.07.30-06.09.48:608][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.07.30-06.09.49:136][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.07.30-06.09.49:158][972]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制45BDABF747479772ABC8B391BB21EDFB.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.07.30-06.09.49:172][972]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.07.30-06.09.49:172][972]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.13.03:000][215]BlueprintLog: New page: Compile BP_玩家控制
+[2021.07.30-06.13.03:069][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.07.30-06.13.03:755][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.07.30-06.13.03:778][285]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制5A000D4A451D96B6FD5C8D97F25735E6.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.07.30-06.13.03:793][285]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.07.30-06.13.03:793][285]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.14.26:225][679]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3e432869-80db-44aa-857d-68f5885a0298}.
+[2021.07.30-06.14.26:225][679]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.30-06.14.26:244][679]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-06.14.26:244][679]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-06.14.34:924][705]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0ea44ba0-ae43-41d4-bcc5-94752b5c1d3b}.
+[2021.07.30-06.14.34:924][705]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.30-06.14.34:943][705]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-06.14.34:943][705]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-06.18.24:638][906]BlueprintLog: New page: Compile BP_玩家控制
+[2021.07.30-06.18.24:694][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.30-06.18.25:285][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.07.30-06.18.25:308][966]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制AAC347084AC176CF291D16BC6D642D0C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.07.30-06.18.25:321][966]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.07.30-06.18.25:321][966]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.18.53:745][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-06.18.53:752][173]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面2ECEA25D4A56751EBA92CBAB71098AF9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-06.18.53:765][173]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-06.18.53:765][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-06.18.54:467][256]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-06.18.54:515][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.07.30-06.18.56:061][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-06.18.56:069][416]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面8FBDFBA344B328483D9D7CAB9421642B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-06.18.56:082][416]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-06.18.56:082][416]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-06.18.57:953][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.07.30-06.18.57:976][618]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制CCDAF5AC4F3C3AB6A1103181A7F06F43.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.07.30-06.18.57:988][618]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.07.30-06.18.57:988][618]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.19.37:865][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.07.30-06.19.37:883][932]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制982A2ECF4707EAD4F9A2E8A90CA0ACBA.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.07.30-06.19.37:896][932]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.07.30-06.19.37:896][932]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.07.30-06.20.42:408][660]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.30-06.20.42:768][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.30-06.20.42:800][660]PIE: New page: PIE session: 遊戲地圖 (2021年7月30日 下午10:20:42)
+[2021.07.30-06.20.42:807][660]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.30-06.20.42:812][660]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.30-06.20.42:812][660]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.07.30-06.20.42:819][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006111s)
+[2021.07.30-06.20.42:826][660]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.07.30-06.20.42:827][660]LogPlayLevel: PIE: World Init took: (0.008130s)
+[2021.07.30-06.20.42:827][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.014401s)
+[2021.07.30-06.20.42:855][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.07.30-06.20.42:863][660]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.30-06.20.42:863][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.30-06.20.42:863][660]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.30-06.20.42:863][660]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.30-06.20.42:867][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-06.20.42:867][660]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-06.20.42:884][660]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.07.30-06.20.42:884][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.30-06.20.42:884][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.30-06.20.42:884][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.30-06.20.42:885][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.30-06.20.42:885][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.30-06.20.42:885][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.30-06.20.42:900][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.30-06.20.42:900][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.30-06.20.42:900][660]LogInit: FAudioDevice initialized.
+[2021.07.30-06.20.42:900][660]LogAudio: Display: Audio Device (ID: 2) registered with world '遊戲地圖'.
+[2021.07.30-06.20.42:951][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-06.20.43:005][660]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.07.30-06.20.43:012][660]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.07.30-14.20.43
+[2021.07.30-06.20.43:012][660]LogWorld: Bringing up level for play took: 0.006062
+[2021.07.30-06.20.43:012][660]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.30-06.20.43:102][660]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.07.30-06.20.43:132][660]PIE: Server logged in
+[2021.07.30-06.20.43:133][660]PIE: Play in editor total start time 0.493 seconds.
+[2021.07.30-06.20.43:498][662]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.07.30-06.20.58:541][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-06.20.58:541][280]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.07.30-06.20.58:541][280]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.30-06.20.58:563][280]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-06.20.58:564][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-06.20.58:574][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.30-06.20.58:581][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-06.20.58:613][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-06.20.58:615][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-06.20.58:676][280]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.07.30-06.20.58:698][281]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.30-06.21.18:224][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.30-06.21.18:265][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.07.30-06.21.18:286][  6]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖0AADF1414A445AFB8376B1A98BCA78E7.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap'
+[2021.07.30-06.21.18:307][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖_BuiltData" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖_BuiltData.uasset" SILENT=true
+[2021.07.30-06.21.18:322][  6]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖_BuiltData6C1925BD4EE8BE4F705BBE8082D6071C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖_BuiltData.uasset'
+[2021.07.30-06.21.18:340][  6]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.30-06.21.18:340][  6]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲地圖_BuiltData.遊戲地圖_BuiltData
+[2021.07.30-06.21.18:340][  6]LogContentValidation: Display: Validating World /Game/地圖/遊戲地圖.遊戲地圖
+[2021.07.30-06.21.19:569][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
