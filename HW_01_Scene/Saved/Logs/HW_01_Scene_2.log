@@ -826,3 +826,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/血量.血量
 [2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/血量ICON.血量ICON
 [2021.07.30-03.59.37:311][273]LogContentValidation: Display: Validating Texture2D /Game/素材/護盾ICON.護盾ICON
+[2021.07.30-04.01.15:719][994]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.30-04.01.15:726][994]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.30-04.02.06:281][ 50]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_遊戲介面
+[2021.07.30-04.02.06:376][ 50]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.30-04.52.19:879][515]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.07.30-04.52.20:759][515]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.07.30-04.52.22:833][515]LogSlate: Took 0.036543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.30-04.52.24:968][731]LogSlate: Window 'BP_遊戲介面' being destroyed
+[2021.07.30-04.52.38:659][330]LogEditorTransaction: Undo New Animation
+[2021.07.30-04.59.35:312][247]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-04.59.35:359][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.07.30-05.00.07:388][ 37]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.00.07:413][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.07.30-05.00.50:509][169]LogEditorTransaction: Undo Edit Left
+[2021.07.30-05.00.50:913][181]LogEditorTransaction: Undo Edit Top
+[2021.07.30-05.05.14:500][993]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.07.30-05.05.14:528][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.07.30-05.05.15:164][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.07.30-05.05.15:184][ 64]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面0A4EBECE4F4F7033EFC5FE903E5E9149.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.07.30-05.05.15:196][ 64]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.07.30-05.05.15:196][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
