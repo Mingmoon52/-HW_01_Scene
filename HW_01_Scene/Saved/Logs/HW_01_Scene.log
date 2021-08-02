@@ -6604,3 +6604,1010 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.02-07.10.40:530][662]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫E4206659490BF8E4AF40BAA3E56FEB06.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
 [2021.08.02-07.10.40:543][662]AssetCheck: New page: Asset Save: BA_玩家動畫
 [2021.08.02-07.10.40:543][662]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.11.06:142][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.02-07.11.06:144][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.032
+[2021.08.02-07.13.20:485][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.13.20:542][823]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫B04A422E4C06FE9AECC42FBDD40C55C5.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.13.20:555][823]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.13.20:555][823]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.13.21:360][917]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.13.21:398][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.13.21:432][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.08.02-07.13.21:450][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.13.21:450][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.13.21:450][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.13.21:478][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.13.21:478][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.13.21:478][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.13.21:518][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.13.21:518][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.13.21:518][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.13.21:529][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_44
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.23:732][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/玩家攻擊" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset" SILENT=true
+[2021.08.02-07.14.23:738][100]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/玩家攻擊C510D0D64877E7A63DA22AB018EB9458.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset'
+[2021.08.02-07.14.23:750][100]AssetCheck: New page: Asset Save: 玩家攻擊
+[2021.08.02-07.14.23:750][100]LogContentValidation: Display: Validating BlendSpace /Game/BP/玩家攻擊.玩家攻擊
+[2021.08.02-07.14.33:970][280]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.14.34:006][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.14.34:040][280]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.08.02-07.14.34:054][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:054][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.14.34:054][280]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.14.34:071][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:072][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.14.34:072][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.14.34:107][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:107][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.14.34:107][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.14.34:121][283]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_45
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.14.34:490][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.14.34:546][323]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫93CC07294E515E52CDED9BA3ADB02F50.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.14.34:560][323]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.14.34:560][323]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.14.38:280][722]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.14.38:284][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.14.38:284][722]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:14:38)
+[2021.08.02-07.14.38:332][722]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.14.38:337][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004495s)
+[2021.08.02-07.14.38:337][722]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.14.38:338][722]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2021.08.02-07.14.38:338][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005690s)
+[2021.08.02-07.14.38:371][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.08.02-07.14.38:373][722]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.14.38:373][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.14.38:373][722]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.14.38:373][722]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.14.38:376][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.14.38:376][722]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.14.38:391][722]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.14.38:392][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.14.38:392][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.14.38:392][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.14.38:393][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.14.38:393][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.14.38:393][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.14.38:405][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.14.38:405][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.14.38:405][722]LogInit: FAudioDevice initialized.
+[2021.08.02-07.14.38:405][722]LogAudio: Display: Audio Device (ID: 25) registered with world '遊戲地圖'.
+[2021.08.02-07.14.38:422][722]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.14.38:425][722]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.14.38
+[2021.08.02-07.14.38:425][722]LogWorld: Bringing up level for play took: 0.002198
+[2021.08.02-07.14.38:426][722]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.08.02-07.14.38:429][722]PIE: Server logged in
+[2021.08.02-07.14.38:430][722]PIE: Play in editor total start time 0.146 seconds.
+[2021.08.02-07.15.18:022][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.18:022][464]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.15.18:023][464]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.15.18:023][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.18:031][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.15.18:046][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.18:077][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.15.18:077][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.18:078][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.18:093][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.18:097][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.08.02-07.15.18:128][465]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.08.02-07.15.21:761][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/玩家攻擊" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset" SILENT=true
+[2021.08.02-07.15.21:763][851]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/玩家攻擊FFA5078D458B1D4806EB70B1E290CF72.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset'
+[2021.08.02-07.15.21:775][851]AssetCheck: New page: Asset Save: 玩家攻擊
+[2021.08.02-07.15.21:775][851]LogContentValidation: Display: Validating BlendSpace /Game/BP/玩家攻擊.玩家攻擊
+[2021.08.02-07.15.24:674][185]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.15.24:679][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.15.24:679][185]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:15:24)
+[2021.08.02-07.15.24:712][185]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.15.24:716][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004177s)
+[2021.08.02-07.15.24:716][185]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.15.24:717][185]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2021.08.02-07.15.24:717][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005295s)
+[2021.08.02-07.15.24:749][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.08.02-07.15.24:751][185]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.15.24:751][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.15.24:751][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.15.24:751][185]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.15.24:752][185]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.15.24:754][185]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.15.24:754][185]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.15.24:769][185]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.15.24:769][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.15.24:769][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.15.24:769][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.15.24:770][185]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.15.24:770][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.15.24:770][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.15.24:782][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.15.24:782][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.15.24:783][185]LogInit: FAudioDevice initialized.
+[2021.08.02-07.15.24:783][185]LogAudio: Display: Audio Device (ID: 26) registered with world '遊戲地圖'.
+[2021.08.02-07.15.24:789][185]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.15.24:792][185]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.15.24
+[2021.08.02-07.15.24:792][185]LogWorld: Bringing up level for play took: 0.002301
+[2021.08.02-07.15.24:793][185]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.08.02-07.15.24:796][185]PIE: Server logged in
+[2021.08.02-07.15.24:797][185]PIE: Play in editor total start time 0.118 seconds.
+[2021.08.02-07.15.31:213][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.31:213][948]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.15.31:213][948]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.15.31:213][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.31:219][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.15.31:234][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.31:263][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.15.31:264][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.31:265][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.31:279][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.31:284][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.08.02-07.15.31:314][949]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.08.02-07.15.51:737][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/玩家攻擊" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset" SILENT=true
+[2021.08.02-07.15.51:743][328]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/玩家攻擊7FAAF7CB41B85DA34AFDA9B0AA10E53C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/玩家攻擊.uasset'
+[2021.08.02-07.15.51:754][328]AssetCheck: New page: Asset Save: 玩家攻擊
+[2021.08.02-07.15.51:754][328]LogContentValidation: Display: Validating BlendSpace /Game/BP/玩家攻擊.玩家攻擊
+[2021.08.02-07.15.53:720][551]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.15.53:725][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.15.53:725][551]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:15:53)
+[2021.08.02-07.15.53:762][551]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.15.53:767][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004391s)
+[2021.08.02-07.15.53:767][551]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.15.53:768][551]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.08.02-07.15.53:768][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005511s)
+[2021.08.02-07.15.53:800][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.08.02-07.15.53:804][551]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.15.53:804][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.15.53:804][551]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.15.53:804][551]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.15.53:807][551]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.15.53:807][551]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.15.53:820][551]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.15.53:821][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.15.53:821][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.15.53:821][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.15.53:821][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.15.53:821][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.15.53:821][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.15.53:834][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.15.53:834][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.15.53:834][551]LogInit: FAudioDevice initialized.
+[2021.08.02-07.15.53:834][551]LogAudio: Display: Audio Device (ID: 27) registered with world '遊戲地圖'.
+[2021.08.02-07.15.53:843][551]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.15.53:846][551]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.15.53
+[2021.08.02-07.15.53:847][551]LogWorld: Bringing up level for play took: 0.002125
+[2021.08.02-07.15.53:847][551]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.08.02-07.15.53:850][551]PIE: Server logged in
+[2021.08.02-07.15.53:851][551]PIE: Play in editor total start time 0.126 seconds.
+[2021.08.02-07.15.59:873][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.59:873][268]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.15.59:873][268]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.15.59:874][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.59:882][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.15.59:897][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.15.59:925][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.15.59:925][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.59:926][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.15.59:941][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.15.59:945][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.02-07.15.59:975][269]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.08.02-07.17.39:527][ 67]LogEditorTransaction: Undo Move Node
+[2021.08.02-07.17.39:694][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.39:696][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.40:318][109]LogEditorTransaction: Undo Add Node
+[2021.08.02-07.17.40:454][109]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.40:456][109]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.47:650][951]LogEditorTransaction: Undo Create Pin Link
+[2021.08.02-07.17.47:786][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.47:787][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.17.59:551][309]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.17.59:586][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.17.59:586][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.17.59:586][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.17.59:587][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.17.59:587][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.17.59:587][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.17.59:622][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.08.02-07.17.59:633][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.17.59:633][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.17.59:633][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.17.59:659][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.17.59:660][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.17.59:660][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.17.59:686][311]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.17.59:686][311]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.17.59:686][311]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.17.59:694][312]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_46
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.18.00:338][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.18.00:395][383]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫509D1F27467E0E889D745595580497BE.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.18.00:411][383]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.18.00:411][383]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.18.05:354][663]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.18.05:359][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.18.05:359][663]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:18:05)
+[2021.08.02-07.18.05:392][663]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.18.05:396][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004185s)
+[2021.08.02-07.18.05:397][663]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.18.05:397][663]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2021.08.02-07.18.05:397][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005286s)
+[2021.08.02-07.18.05:431][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.08.02-07.18.05:433][663]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.18.05:433][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.18.05:433][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.18.05:434][663]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.18.05:434][663]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.18.05:436][663]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.18.05:436][663]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.18.05:452][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.18.05:452][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.18.05:464][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.18.05:465][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.18.05:465][663]LogInit: FAudioDevice initialized.
+[2021.08.02-07.18.05:465][663]LogAudio: Display: Audio Device (ID: 28) registered with world '遊戲地圖'.
+[2021.08.02-07.18.05:473][663]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.18.05:476][663]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.18.05
+[2021.08.02-07.18.05:476][663]LogWorld: Bringing up level for play took: 0.002086
+[2021.08.02-07.18.05:476][663]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.08.02-07.18.05:478][663]PIE: Server logged in
+[2021.08.02-07.18.05:479][663]PIE: Play in editor total start time 0.122 seconds.
+[2021.08.02-07.18.13:173][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.18.13:173][579]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.18.13:173][579]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.18.13:173][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.18.13:180][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.18.13:195][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.18.13:224][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.18.13:225][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.18.13:226][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.18.13:240][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.18.13:244][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.08.02-07.18.13:274][580]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.08.02-07.21.29:403][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.21.29:466][614]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫1926CA6644E713158216E2A345F4FC7C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.21.29:483][614]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.21.29:483][614]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.21.48:420][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.21.48:484][802]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫F5F042824B0059852D10A28CDE755C00.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.21.48:499][802]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.21.48:499][802]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.22.07:770][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.22.07:834][  2]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫6C0712CF44B2FE2BCC87FDB8AA3ACBFD.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.22.07:851][  2]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.22.07:851][  2]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.22.18:221][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.22.18:285][194]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫2938AC9140BA206360A80F8D5352F3E5.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.22.18:298][194]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.22.18:298][194]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.22.20:945][495]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.22.20:955][495]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 攻擊 to 受傷  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.20:955][495]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 受傷 to 攻擊  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.20:955][495]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 受傷 to 衝刺  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.20:985][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.20:985][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.20:985][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.20:985][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.20:986][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.20:986][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.21:029][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.08.02-07.22.21:043][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.21:043][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.21:043][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.21:062][496]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.21:062][496]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.21:062][496]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.21:098][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.21:098][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.21:098][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.21:107][498]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_47
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:020][396]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.22.46:031][396]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 攻擊 to 受傷  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.46:031][396]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 受傷 to 衝刺  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.46:060][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.46:097][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.08.02-07.22.46:113][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:113][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.46:113][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.46:148][397]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:148][397]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.46:148][397]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.46:174][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:174][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.46:174][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.46:183][399]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_48
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.46:555][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.22.46:622][439]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫CA8390984EE405172C1A90A3196F7601.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.22.46:637][439]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.22.46:637][439]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.22.54:992][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.22.55:058][390]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫14D1D04A403F73D3B2449F852320A50D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.22.55:072][390]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.22.55:072][390]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.22.55:363][423]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.22.55:373][423]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 受傷 to 衝刺  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.55:402][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.55:436][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.02-07.22.55:446][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.55:446][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.55:447][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.55:484][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.55:485][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.55:485][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.55:500][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.55:500][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.55:500][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.55:509][426]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_49
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:556][542]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.22.56:567][542]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 受傷 to 衝刺  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.56:598][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.56:634][542]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.08.02-07.22.56:645][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:645][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.56:645][542]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.56:669][543]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:669][543]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.56:669][543]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.56:705][544]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.22.56:706][544]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.22.56:706][544]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.22.56:724][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_50
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:132][891]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.23.34:171][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:171][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.34:171][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.34:172][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:172][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.34:172][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.34:206][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.08.02-07.23.34:218][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:218][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.34:218][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.34:252][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:252][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.34:252][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.34:282][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.34:282][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.34:282][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.34:293][894]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_51
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:817][947]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.51:855][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.51:891][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.08.02-07.23.51:902][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:902][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.51:902][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.51:936][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:936][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.51:936][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.51:958][949]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.51:958][949]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.23.51:958][949]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.23.51:968][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_52
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.23.52:561][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.23.52:628][ 14]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫B1F8E77649570741F38444B5A1EBB314.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.23.52:640][ 14]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.23.52:640][ 14]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.24.05:860][584]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.24.05:865][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.24.05:865][584]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:24:05)
+[2021.08.02-07.24.05:865][584]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.24.05:870][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004371s)
+[2021.08.02-07.24.05:871][584]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.24.05:871][584]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2021.08.02-07.24.05:871][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005571s)
+[2021.08.02-07.24.05:905][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.02-07.24.05:907][584]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.08.02-07.24.05:907][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.24.05:907][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.24.05:907][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.24.05:907][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.24.05:908][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.24.05:908][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.24.05:908][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.24.05:908][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.24.05:908][584]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.24.05:908][584]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.24.05:911][584]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.24.05:911][584]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.24.05:926][584]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.24.05:927][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.24.05:927][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.24.05:927][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.24.05:927][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.24.05:927][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.24.05:927][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.24.05:940][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.24.05:940][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.24.05:940][584]LogInit: FAudioDevice initialized.
+[2021.08.02-07.24.05:940][584]LogAudio: Display: Audio Device (ID: 29) registered with world '遊戲地圖'.
+[2021.08.02-07.24.05:995][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.24.05:995][584]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.24.05:999][584]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.24.05
+[2021.08.02-07.24.05:999][584]LogWorld: Bringing up level for play took: 0.002607
+[2021.08.02-07.24.05:999][584]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.08.02-07.24.06:004][584]PIE: Server logged in
+[2021.08.02-07.24.06:005][584]PIE: Play in editor total start time 0.14 seconds.
+[2021.08.02-07.25.33:893][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.25.33:893][684]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.25.33:893][684]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.02-07.25.33:898][684]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.25.33:899][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.25.33:904][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.25.33:921][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.25.33:951][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.25.33:952][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.25.33:953][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.25.33:972][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.02-07.25.33:988][685]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.08.02-07.27.38:010][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.27.38:081][250]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫6A9B35314493B4400DD0F8A16DE88F25.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.27.38:097][250]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.27.38:097][250]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.28.52:174][ 25]LogEditorTransaction: Undo Add Node
+[2021.08.02-07.28.52:355][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.28.52:356][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.28.57:221][557]LogEditorTransaction: Undo Add Node
+[2021.08.02-07.28.57:361][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.28.57:362][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.02-07.29.17:980][935]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 等待、走路與跑步 to 大絕  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 大絕 to 等待、走路與跑步  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 衝刺 to 大絕  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 大絕 to 衝刺  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 蹲下 to 大絕  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.17:991][935]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_玩家動畫.uasset: [Compiler] 大絕 to 蹲下  will never be taken, please connect something to  Can Enter Transition
+[2021.08.02-07.29.18:022][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.18:023][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.29.18:023][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.29.18:023][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.18:023][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.29.18:023][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.29.18:071][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.08.02-07.29.18:085][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.18:085][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.29.18:085][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.29.18:108][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.18:108][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.29.18:108][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.29.18:136][937]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.18:136][937]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.29.18:136][937]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.29.18:144][938]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_53
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.29.36:451][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.29.36:526][ 55]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫DD639B6445B5F37E807F93AB40095C04.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.29.36:542][ 55]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.29.36:542][ 55]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.30.38:685][226]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.30.38:728][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.38:729][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.30.38:729][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.30.38:729][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.38:729][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.30.38:729][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.30.38:763][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.08.02-07.30.38:779][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.38:779][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.30.38:779][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.30.38:811][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.38:811][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.30.38:812][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.30.38:832][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.38:833][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.30.38:833][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.30.38:840][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_54
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.30.39:373][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.30.39:450][287]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫DB171BA14B946B054FD8F6A12A60922D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.30.39:464][287]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.30.39:464][287]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.31.53:816][ 52]BlueprintLog: New page: Compile BA_玩家動畫
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.31.53:859][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.31.53:896][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.08.02-07.31.53:913][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.53:913][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.31.53:913][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.31.53:934][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.53:934][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.31.53:934][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.31.53:966][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.53:966][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01C1
+[2021.08.02-07.31.53:966][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:01F3
+[2021.08.02-07.31.53:976][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_玩家動畫_C_55
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0131
+[2021.08.02-07.31.54:409][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_玩家動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset" SILENT=true
+[2021.08.02-07.31.54:486][103]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_玩家動畫7395FB574393BF513A5BB7A4B1313C76.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_玩家動畫.uasset'
+[2021.08.02-07.31.54:498][103]AssetCheck: New page: Asset Save: BA_玩家動畫
+[2021.08.02-07.31.54:498][103]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_玩家動畫.BA_玩家動畫
+[2021.08.02-07.31.56:033][274]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.02-07.31.56:038][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.02-07.31.56:038][274]PIE: New page: PIE session: 遊戲地圖 (2021年8月2日 下午11:31:56)
+[2021.08.02-07.31.56:072][274]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.31.56:076][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004310s)
+[2021.08.02-07.31.56:077][274]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.02-07.31.56:077][274]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2021.08.02-07.31.56:077][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.005526s)
+[2021.08.02-07.31.56:111][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.02-07.31.56:113][274]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.02-07.31.56:113][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.02-07.31.56:113][274]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.02-07.31.56:113][274]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.02-07.31.56:116][274]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.02-07.31.56:116][274]LogAudioMixer: Display: 1: FrontRight
+[2021.08.02-07.31.56:131][274]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.02-07.31.56:131][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.02-07.31.56:131][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.02-07.31.56:131][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.02-07.31.56:132][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.02-07.31.56:132][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.02-07.31.56:132][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.02-07.31.56:144][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.02-07.31.56:144][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.02-07.31.56:144][274]LogInit: FAudioDevice initialized.
+[2021.08.02-07.31.56:144][274]LogAudio: Display: Audio Device (ID: 30) registered with world '遊戲地圖'.
+[2021.08.02-07.31.56:151][274]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.02-07.31.56:154][274]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.02-15.31.56
+[2021.08.02-07.31.56:154][274]LogWorld: Bringing up level for play took: 0.002296
+[2021.08.02-07.31.56:154][274]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.08.02-07.31.56:158][274]PIE: Server logged in
+[2021.08.02-07.31.56:158][274]PIE: Play in editor total start time 0.122 seconds.
+[2021.08.02-07.32.06:493][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.32.06:493][510]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.32.06:493][510]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.32.06:494][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.32.06:500][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.32.06:514][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.32.06:545][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.02-07.32.06:545][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.32.06:546][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.32.06:560][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.32.06:565][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.02-07.32.06:596][511]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.08.02-07.32.09:560][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.08.02-07.32.10:776][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
