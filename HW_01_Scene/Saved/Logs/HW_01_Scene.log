@@ -8070,3 +8070,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.02-07.54.45:798][ 34]PIE: Server logged in
 [2021.08.02-07.54.45:799][ 34]PIE: Play in editor total start time 0.116 seconds.
 [2021.08.02-07.54.50:545][602]Cmd: LevelEditor.ToggleImmersive
+[2021.08.02-07.56.58:500][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.56.58:500][432]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.02-07.56.58:502][432]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.02-07.56.58:502][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.56.58:518][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.02-07.56.58:533][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.02-07.56.58:562][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.02-07.56.58:562][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.56.58:563][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.02-07.56.58:583][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.08.02-07.56.58:594][433]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.08.02-07.57.04:775][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.08.02-07.57.05:850][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
