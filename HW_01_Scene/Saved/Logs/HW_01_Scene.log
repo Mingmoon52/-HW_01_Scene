@@ -5651,3 +5651,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.02-05.31.54:112][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.035
 [2021.08.02-05.41.54:473][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2021.08.02-05.41.54:476][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.040
+[2021.08.02-05.51.55:108][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.02-05.51.55:109][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.034
