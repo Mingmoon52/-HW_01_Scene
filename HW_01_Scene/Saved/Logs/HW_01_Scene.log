@@ -5227,3 +5227,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-03.25.45:546][ 34]LogContentValidation: Display: Validating World /Game/地圖/遊戲地圖.遊戲地圖
 [2021.08.04-03.25.46:715][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
 [2021.08.04-03.25.48:054][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.04-03.32.24:673][ 50]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\拿彈匣429591__inspectorj__chewing-breadstick-single-d.wav)
+[2021.08.04-03.32.32:626][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.08.04-03.32.33:596][558]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-03.32.33:624][558]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/拿彈匣429591__inspectorj__chewing-b36623E4B444AA582E78C4084A3B8E585.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/拿彈匣429591__inspectorj__chewing-breadstick-single-d.uasset'
+[2021.08.04-03.32.33:641][558]AssetCheck: New page: Asset Save: 拿彈匣429591__inspectorj__chewing-breadstick-single-d
+[2021.08.04-03.32.33:641][558]LogContentValidation: Display: Validating SoundWave /Game/素材/拿彈匣429591__inspectorj__chewing-breadstick-single-d.拿彈匣429591__inspectorj__chewing-breadstick-single-d
+[2021.08.04-03.37.12:053][637]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.08.04-03.37.12:059][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.054
+[2021.08.04-03.37.12:060][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_玩家控制] ([2] browsable assets)...
+[2021.08.04-03.37.12:069][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_玩家控制.BP_玩家控制]
+[2021.08.04-03.37.12:078][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_玩家控制.BP_玩家控制]
+[2021.08.04-03.37.12:078][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_玩家控制]
+[2021.08.04-03.37.12:078][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_玩家控制_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.08.04-03.37.12:136][637]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制_Auto9BCCCDA1D47EA6FACD49D639C8CD5392D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_玩家控制_Auto9.uasset'
+[2021.08.04-03.37.12:137][637]LogFileHelpers: Auto-saving content packages took 0.079
+[2021.08.04-03.39.02:734][895]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-03.39.02:820][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.04-03.39.03:597][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-03.39.03:653][974]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制A07379BB4B5CC0466C00B999B0D42DED.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-03.39.03:667][974]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-03.39.03:667][974]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-03.42.37:302][109]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3e432869-80db-44aa-857d-68f5885a0298}.
+[2021.08.04-03.42.37:309][109]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.04-03.42.37:381][109]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-03.42.37:381][109]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-03.45.13:018][672]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-03.45.13:110][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.08.04-03.45.13:770][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-03.45.13:827][730]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制EE3D3C4F4F346C7D7851638018617C3C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-03.45.13:843][730]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-03.45.13:843][730]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-03.45.48:095][282]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-03.45.48:185][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.08.04-03.45.48:806][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-03.45.48:863][337]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制C132487445B9690DB7F847899BB0EF7E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-03.45.48:877][337]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-03.45.48:877][337]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
