@@ -7487,3 +7487,1309 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Swiping.Mutant_Swiping
 [2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Walking.Mutant_Walking
 [2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Run.Mutant_Run
+[2021.08.04-06.43.09:412][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.08.04-06.43.10:991][614]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.04-06.43.11:076][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.08.04-06.43.11:093][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.04-06.43.11:118][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.08.04-06.43.11:136][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.04-06.43.31:494][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.04-06.44.32:091][523]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.04-06.44.32:101][523]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.04-06.44.32:178][523]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.04-06.44.39:760][ 97]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_怪物
+[2021.08.04-06.44.39:765][ 97]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.04-06.45.22:234][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.45.24:318][684]LogSlate: Window 'BP_怪物' being destroyed
+[2021.08.04-06.45.25:567][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.45.25:570][816]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物AA986AE84F1BCCFDED3C259E6CD640B9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.45.25:580][816]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.45.25:580][816]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.47.27:212][987]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-06.47.27:272][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.04-06.47.27:919][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.47.27:927][ 53]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物1E0BA131449946BE648F49836813E4F1.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.47.27:938][ 53]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.47.27:938][ 53]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.47.54:655][502]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.04-06.47.54:718][502]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.04-06.47.59:995][502]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.08.04-06.48.00:005][502]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.08.04-06.48.00:019][502]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.08.04-06.48.08:202][192]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BA_怪物
+[2021.08.04-06.48.08:207][192]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.08.04-06.48.21:897][811]LogContentBrowser: Attempting asset rename: BA_怪物 -> BA_怪物動畫
+[2021.08.04-06.48.21:928][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.BA_怪物動畫:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.SKEL_BA_怪物動畫_C:AnimGraph' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.SKEL_BA_怪物動畫_C' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.BA_怪物動畫_C:AnimGraph' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.BA_怪物動畫_C' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.BA_怪物動畫:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:929][811]LogMetaData: Removing '/Game/BP/BA_怪物動畫.BA_怪物動畫:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/BP/BA_怪物.PackageMetaData'
+[2021.08.04-06.48.21:978][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.48.22:003][811]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫CAC2DBA54C369A152F574295E27BD4D7.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.48.22:083][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.08.04-06.48.22:113][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.04-06.48.22:133][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.04-06.48.22:164][811]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-06.48.22:164][811]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.49.15:216][381]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.49.15:222][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-06.49.15:693][381]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.04-06.49.22:679][180]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-06.49.22:718][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.08.04-06.49.23:308][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.49.23:316][237]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫ACF5C90C4A78C2D995E0EE90DAE89D47.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.49.23:329][237]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-06.49.23:329][237]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.50.40:071][470]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.04-06.50.58:994][546]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-06.50.59:036][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.08.04-06.50.59:747][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.50.59:756][622]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫59ABB57744357EC014CAAF8D118E8FC8.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.50.59:766][622]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-06.50.59:766][622]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.51.12:302][ 74]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-06.51.12:342][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.08.04-06.51.12:882][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.51.12:890][130]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫13B4483846790E84E4D3EBA8BFF1E19F.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.51.12:900][130]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-06.51.12:900][130]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.51.29:957][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.04-06.51.30:923][ 94]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-06.51.30:966][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.51.30:974][ 94]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物421EC9254C8F9E19807EAFAB2B8B1C56.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.51.30:987][ 94]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.51.30:987][ 94]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.52.55:060][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.04-06.52.56:466][275]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.04-06.52.56:602][275]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.52.56:602][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.52.56:621][275]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.52.56:621][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.52.56:628][275]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.52.56:628][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.52.56:672][275]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.52.56:672][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.52.56:720][275]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/怪物/Catwalk_Idle_Twist_R.Catwalk_Idle_Twist_R
+[2021.08.04-06.52.56:955][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.04-06.52.56:978][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.08.04-06.52.56:997][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.04-06.53.04:615][989]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.53.04:620][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-06.53.05:158][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.04-06.53.07:429][158]LogSlate: Window 'BA_怪物動畫' being destroyed
+[2021.08.04-06.53.17:457][912]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Breathing Idle.fbx)
+[2021.08.04-06.53.17:465][912]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Breathing Idle.fbx
+[2021.08.04-06.53.17:485][912]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.53.19:507][912]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-06.53.19:553][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.08.04-06.53.19:556][912]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.04-06.53.19:740][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.04-06.53.19:741][912]FBXImport: Import was canceled. 
+[2021.08.04-06.53.19:812][912]LogAssetTools: The import task was canceled.
+[2021.08.04-06.53.21:186][ 34]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.53.21:190][ 34]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.53.27:385][323]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Breathing Idle.fbx)
+[2021.08.04-06.53.27:392][323]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Breathing Idle.fbx
+[2021.08.04-06.53.27:411][323]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.53.28:873][323]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.53.28:887][323]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.53.28:888][323]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.53.28:888][323]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.53.29:250][323]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Breathing_Idle.Mutant_Breathing_Idle
+[2021.08.04-06.53.29:251][323]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Breathing_Idle.Mutant_Breathing_Idle
+[2021.08.04-06.53.32:183][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.08.04-06.53.32:998][571]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-06.53.33:026][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.53.33:034][571]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫F27CC2324F161DE02067FBBAA2982577.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.53.33:044][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Mutant_Breathing_Idle" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Breathing_Idle.uasset" SILENT=true
+[2021.08.04-06.53.33:050][571]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Mutant_Breathing_Idle5E6B04FE4C31EF7C34DE4D8CD6E4A959.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Breathing_Idle.uasset'
+[2021.08.04-06.53.33:064][571]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-06.53.33:064][571]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Breathing_Idle.Mutant_Breathing_Idle
+[2021.08.04-06.53.33:064][571]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.53.37:621][ 83]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-06.53.37:658][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.08.04-06.53.38:609][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-06.53.38:618][187]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫F028F2BA43FAFB3DE790C691F9868F83.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-06.53.38:629][187]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-06.53.38:629][187]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-06.53.50:768][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.53.53:900][395]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.53.53:900][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.53.53:950][395]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.53.58:789][926]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-06.53.58:841][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.08.04-06.53.59:444][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.53.59:452][986]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物5D8C5BC4436B13F5063BF9A5882E0335.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.53.59:462][986]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.53.59:462][986]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.54.02:349][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.04-06.54.24:460][779]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-06.54.24:518][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.04-06.54.25:196][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.54.25:204][852]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物1E580D6C446050F12EDE3AABD292EA0F.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.54.25:215][852]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.54.25:215][852]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.55.52:988][692]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-06.55.52:993][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-06.55.52:993][692]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午10:55:52)
+[2021.08.04-06.55.52:993][692]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.55.52:999][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005868s)
+[2021.08.04-06.55.53:000][692]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-06.55.53:000][692]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2021.08.04-06.55.53:000][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007020s)
+[2021.08.04-06.55.53:025][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.08.04-06.55.53:027][692]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-06.55.53:027][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-06.55.53:027][692]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-06.55.53:027][692]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-06.55.53:030][692]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-06.55.53:030][692]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-06.55.53:047][692]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-06.55.53:047][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-06.55.53:047][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-06.55.53:047][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-06.55.53:047][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-06.55.53:048][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-06.55.53:048][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-06.55.53:061][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-06.55.53:061][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-06.55.53:061][692]LogInit: FAudioDevice initialized.
+[2021.08.04-06.55.53:061][692]LogAudio: Display: Audio Device (ID: 90) registered with world '遊戲地圖'.
+[2021.08.04-06.55.53:110][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.55.53:110][692]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-06.55.53:114][692]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-14.55.53
+[2021.08.04-06.55.53:114][692]LogWorld: Bringing up level for play took: 0.003121
+[2021.08.04-06.55.53:114][692]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2021.08.04-06.55.53:119][692]PIE: Server logged in
+[2021.08.04-06.55.53:120][692]PIE: Play in editor total start time 0.127 seconds.
+[2021.08.04-06.55.54:616][868]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-06.55.54:623][868]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.55.54:659][868]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.55.54:660][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.55.54:666][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-06.55.54:674][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.55.54:696][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-06.55.54:696][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.55.54:697][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.55.54:715][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.08.04-06.55.54:726][869]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2021.08.04-06.56.13:237][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-06.56.13:243][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-06.56.13:243][784]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午10:56:13)
+[2021.08.04-06.56.13:279][784]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.56.13:285][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005774s)
+[2021.08.04-06.56.13:285][784]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-06.56.13:286][784]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.08.04-06.56.13:286][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007027s)
+[2021.08.04-06.56.13:310][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.08.04-06.56.13:312][784]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-06.56.13:312][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-06.56.13:312][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-06.56.13:312][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-06.56.13:315][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-06.56.13:315][784]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-06.56.13:331][784]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-06.56.13:332][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-06.56.13:332][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-06.56.13:332][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-06.56.13:332][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-06.56.13:332][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-06.56.13:332][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-06.56.13:345][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-06.56.13:345][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-06.56.13:345][784]LogInit: FAudioDevice initialized.
+[2021.08.04-06.56.13:345][784]LogAudio: Display: Audio Device (ID: 91) registered with world '遊戲地圖'.
+[2021.08.04-06.56.13:350][784]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-06.56.13:354][784]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-14.56.13
+[2021.08.04-06.56.13:460][784]LogWorld: Bringing up level for play took: 0.108844
+[2021.08.04-06.56.13:460][784]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2021.08.04-06.56.13:464][784]PIE: Server logged in
+[2021.08.04-06.56.13:465][784]PIE: Play in editor total start time 0.223 seconds.
+[2021.08.04-06.56.21:490][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.56.21:490][739]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.56.21:490][739]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.56.21:491][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.56.21:497][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-06.56.21:531][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.56.21:553][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-06.56.21:553][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.56.21:554][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.56.21:569][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.56.21:640][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.08.04-06.56.21:678][740]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2021.08.04-06.58.31:057][263]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-06.58.31:172][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.08.04-06.58.31:612][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-06.58.31:620][309]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物9AECBC11439DB752D566EAB8451436CE.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-06.58.31:632][309]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-06.58.31:632][309]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-06.58.36:664][870]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-06.58.36:669][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-06.58.36:669][870]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午10:58:36)
+[2021.08.04-06.58.36:709][870]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.58.36:714][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005725s)
+[2021.08.04-06.58.36:715][870]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-06.58.36:716][870]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2021.08.04-06.58.36:716][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007060s)
+[2021.08.04-06.58.36:740][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.08.04-06.58.36:741][870]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-06.58.36:741][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-06.58.36:741][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-06.58.36:742][870]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-06.58.36:742][870]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-06.58.36:744][870]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-06.58.36:744][870]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-06.58.36:761][870]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-06.58.36:761][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-06.58.36:762][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-06.58.36:762][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-06.58.36:762][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-06.58.36:762][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-06.58.36:762][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-06.58.36:776][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-06.58.36:776][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-06.58.36:776][870]LogInit: FAudioDevice initialized.
+[2021.08.04-06.58.36:776][870]LogAudio: Display: Audio Device (ID: 92) registered with world '遊戲地圖'.
+[2021.08.04-06.58.36:786][870]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-06.58.36:790][870]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-14.58.36
+[2021.08.04-06.58.36:791][870]LogWorld: Bringing up level for play took: 0.003678
+[2021.08.04-06.58.36:791][870]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2021.08.04-06.58.36:794][870]PIE: Server logged in
+[2021.08.04-06.58.36:795][870]PIE: Play in editor total start time 0.127 seconds.
+[2021.08.04-06.58.43:840][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.58.43:840][710]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.58.43:840][710]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.58.43:841][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.58.43:848][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-06.58.43:881][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.58.43:904][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-06.58.43:904][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.58.43:905][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.58.43:921][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.58.43:924][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.08.04-06.58.43:962][711]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2021.08.04-06.59.10:298][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.08.04-06.59.10:300][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.04-06.59.10:325][ 33]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖_Auto3A6594D9D43D9DF922422DE8440DF6266.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto3.umap'
+[2021.08.04-06.59.10:326][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.051
+[2021.08.04-06.59.10:326][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.08.04-07.02.18:964][187]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-07.02.19:084][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.08.04-07.02.19:562][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-07.02.19:570][236]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物BA79417F49F4B95A22A98DAEDE592F84.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-07.02.19:582][236]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-07.02.19:582][236]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-07.02.21:706][459]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-07.02.21:711][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-07.02.21:711][459]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午11:02:21)
+[2021.08.04-07.02.21:749][459]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.02.21:756][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005928s)
+[2021.08.04-07.02.21:756][459]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-07.02.21:756][459]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2021.08.04-07.02.21:756][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007075s)
+[2021.08.04-07.02.21:780][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.08.04-07.02.21:781][459]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-07.02.21:781][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-07.02.21:781][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-07.02.21:782][459]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-07.02.21:782][459]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-07.02.21:785][459]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-07.02.21:785][459]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-07.02.21:801][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-07.02.21:801][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-07.02.21:815][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-07.02.21:815][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-07.02.21:815][459]LogInit: FAudioDevice initialized.
+[2021.08.04-07.02.21:815][459]LogAudio: Display: Audio Device (ID: 93) registered with world '遊戲地圖'.
+[2021.08.04-07.02.21:821][459]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-07.02.21:825][459]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-15.02.21
+[2021.08.04-07.02.21:826][459]LogWorld: Bringing up level for play took: 0.003591
+[2021.08.04-07.02.21:826][459]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2021.08.04-07.02.21:830][459]PIE: Server logged in
+[2021.08.04-07.02.21:831][459]PIE: Play in editor total start time 0.12 seconds.
+[2021.08.04-07.02.44:361][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.02.44:361][157]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.02.44:361][157]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.02.44:362][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.02.44:371][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-07.02.44:408][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.02.44:431][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-07.02.44:431][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.02.44:432][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.02.44:448][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.02.44:451][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.08.04-07.02.44:489][158]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2021.08.04-07.03.08:376][970]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-07.03.08:489][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.08.04-07.03.09:099][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-07.03.09:106][ 36]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物8632EC464E7101C12642ADAC090FB358.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-07.03.09:117][ 36]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-07.03.09:117][ 36]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-07.03.10:150][151]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-07.03.10:154][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-07.03.10:155][151]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午11:03:10)
+[2021.08.04-07.03.10:155][151]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.03.10:161][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005817s)
+[2021.08.04-07.03.10:161][151]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-07.03.10:162][151]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2021.08.04-07.03.10:162][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.006948s)
+[2021.08.04-07.03.10:186][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.08.04-07.03.10:187][151]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-07.03.10:187][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-07.03.10:187][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-07.03.10:188][151]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-07.03.10:188][151]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-07.03.10:191][151]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-07.03.10:191][151]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-07.03.10:208][151]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-07.03.10:208][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-07.03.10:208][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-07.03.10:208][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-07.03.10:209][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-07.03.10:209][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-07.03.10:209][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-07.03.10:223][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-07.03.10:223][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-07.03.10:223][151]LogInit: FAudioDevice initialized.
+[2021.08.04-07.03.10:223][151]LogAudio: Display: Audio Device (ID: 94) registered with world '遊戲地圖'.
+[2021.08.04-07.03.10:272][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.03.10:273][151]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-07.03.10:277][151]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-15.03.10
+[2021.08.04-07.03.10:278][151]LogWorld: Bringing up level for play took: 0.004267
+[2021.08.04-07.03.10:278][151]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2021.08.04-07.03.10:283][151]PIE: Server logged in
+[2021.08.04-07.03.10:283][151]PIE: Play in editor total start time 0.129 seconds.
+[2021.08.04-07.03.35:950][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.03.35:950][220]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.03.35:950][220]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-07.03.35:956][220]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.03.35:957][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.03.35:967][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-07.03.36:003][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.03.36:026][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-07.03.36:026][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.03.36:027][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.03.36:046][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.04-07.03.36:061][221]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2021.08.04-07.04.08:748][ 45]BlueprintLog: New page: Compile BP_怪物
+[2021.08.04-07.04.08:866][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.04-07.04.09:487][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-07.04.09:494][109]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物A233DED0476D4C9DEEFE04BC976AA153.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-07.04.09:506][109]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-07.04.09:506][109]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-07.04.11:122][301]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-07.04.11:126][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-07.04.11:126][301]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午11:04:11)
+[2021.08.04-07.04.11:127][301]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.04.11:132][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005842s)
+[2021.08.04-07.04.11:133][301]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-07.04.11:133][301]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.08.04-07.04.11:133][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007030s)
+[2021.08.04-07.04.11:157][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.08.04-07.04.11:158][301]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-07.04.11:158][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-07.04.11:158][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-07.04.11:158][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-07.04.11:161][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-07.04.11:161][301]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-07.04.11:177][301]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-07.04.11:177][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-07.04.11:177][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-07.04.11:178][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-07.04.11:178][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-07.04.11:178][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-07.04.11:178][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-07.04.11:191][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-07.04.11:191][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-07.04.11:191][301]LogInit: FAudioDevice initialized.
+[2021.08.04-07.04.11:191][301]LogAudio: Display: Audio Device (ID: 95) registered with world '遊戲地圖'.
+[2021.08.04-07.04.11:241][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.04.11:242][301]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-07.04.11:246][301]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-15.04.11
+[2021.08.04-07.04.11:246][301]LogWorld: Bringing up level for play took: 0.003986
+[2021.08.04-07.04.11:247][301]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2021.08.04-07.04.11:251][301]PIE: Server logged in
+[2021.08.04-07.04.11:252][301]PIE: Play in editor total start time 0.127 seconds.
+[2021.08.04-07.04.34:451][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.04.34:451][ 74]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.04.34:451][ 74]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-07.04.34:459][ 74]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.04.34:460][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.04.34:469][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-07.04.34:504][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.04.34:527][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-07.04.34:527][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.04.34:528][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.04.34:547][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.04-07.04.34:563][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2021.08.04-07.04.37:784][227]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-07.04.37:789][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-07.04.37:789][227]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午11:04:37)
+[2021.08.04-07.04.37:789][227]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.04.37:795][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005815s)
+[2021.08.04-07.04.37:795][227]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-07.04.37:796][227]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2021.08.04-07.04.37:796][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.006903s)
+[2021.08.04-07.04.37:820][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.08.04-07.04.37:820][227]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-07.04.37:820][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-07.04.37:820][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-07.04.37:821][227]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-07.04.37:821][227]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-07.04.37:824][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-07.04.37:824][227]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-07.04.37:840][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-07.04.37:840][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-07.04.37:854][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-07.04.37:854][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-07.04.37:854][227]LogInit: FAudioDevice initialized.
+[2021.08.04-07.04.37:854][227]LogAudio: Display: Audio Device (ID: 96) registered with world '遊戲地圖'.
+[2021.08.04-07.04.37:911][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.04.37:911][227]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-07.04.37:915][227]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-15.04.37
+[2021.08.04-07.04.37:916][227]LogWorld: Bringing up level for play took: 0.003967
+[2021.08.04-07.04.37:916][227]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2021.08.04-07.04.37:920][227]PIE: Server logged in
+[2021.08.04-07.04.37:920][227]PIE: Play in editor total start time 0.133 seconds.
+[2021.08.04-07.05.21:460][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.05.21:460][434]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.05.21:461][434]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-07.05.21:466][434]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.05.21:467][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.05.21:479][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-07.05.21:514][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.05.21:538][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.05.21:539][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.05.21:558][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.04-07.05.21:576][435]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2021.08.04-07.05.37:817][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.04-07.05.37:821][368]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物4AD2DBF14D4C981328F8AA825938DD9B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.04-07.05.37:831][368]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.04-07.05.37:831][368]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.04-07.06.45:038][679]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.08.04-07.06.45:048][679]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.08.04-07.06.45:061][679]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.08.04-07.06.59:765][700]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_怪物等待走路跑步
+[2021.08.04-07.06.59:766][700]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.08.04-07.07.14:462][383]LogContentBrowser: Attempting asset rename: BS_怪物等待走路跑步 -> BS_怪物等待走路與跑步
+[2021.08.04-07.07.14:532][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.08.04-07.07.14:536][383]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BS_怪物等待走路與跑步11D4ED224052BDC1295AF2B5911BB20C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.08.04-07.07.14:630][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.08.04-07.07.14:664][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.08.04-07.07.14:687][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.04-07.07.14:738][383]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.08.04-07.07.14:738][383]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.08.04-07.07.17:074][531]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.08.04-07.07.17:159][531]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.07.17:725][531]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.04-07.11.06:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.08.04-07.11.06:596][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.04-07.11.06:620][  0]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖_Auto47A4B4D51444254579C9ABEA9D74C8F13.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto4.umap'
+[2021.08.04-07.11.06:621][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.115
+[2021.08.04-07.11.06:621][  0]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
+[2021.08.04-07.11.06:621][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BS_怪物等待走路與跑步] ([1] browsable assets)...
+[2021.08.04-07.11.06:655][  0]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步]
+[2021.08.04-07.11.06:655][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BS_怪物等待走路與跑步]
+[2021.08.04-07.11.06:660][  0]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BS_怪物等待走路與跑步_Auto4E2168C5E42B5EE6178983B8647B992A1.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BS_怪物等待走路與跑步_Auto4.uasset'
+[2021.08.04-07.11.06:660][  0]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.08.04-07.15.04:864][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.08.04-07.15.04:871][514]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BS_怪物等待走路與跑步085A8DAE401085865B2D08B22B075A7F.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.08.04-07.15.04:885][514]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.08.04-07.15.04:885][514]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.08.04-07.15.22:056][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.08.04-07.15.22:058][535]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BS_怪物等待走路與跑步E4DB0FE1400AA634E3F17B9C7D8D76A6.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.08.04-07.15.22:069][535]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.08.04-07.15.22:069][535]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.08.04-07.17.34:319][514]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.17.34:321][514]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_怪物動畫.uasset: [Compiler] Entry node  主要動畫  is not connected to state
+[2021.08.04-07.17.34:321][514]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_怪物動畫.uasset: [Compiler] There was no entry state connection in  主要動畫
+[2021.08.04-07.17.34:377][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.04-07.17.35:406][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.17.35:415][626]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫137DAFB64CF379AE541AF28800C1BFDA.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.17.35:427][626]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.17.35:427][626]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.19.46:977][103]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.19.47:027][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.04-07.19.47:649][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.19.47:662][147]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫ED77113F4D3744844EE223B554606DF8.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.19.47:675][147]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.19.47:675][147]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.19.49:373][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.19.49:382][332]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫99783A554AC79E1EF9B0CCB232681505.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.19.49:394][332]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.19.49:394][332]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.22.33:905][779]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.22.33:954][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.04-07.22.34:510][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.22.34:522][836]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫8CCBC16E4B3D170B122190A6A96D9EC7.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.22.34:538][836]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.22.34:538][836]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.24.26:280][785]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.24.26:299][785]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:300][785]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:300][785]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:329][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.04-07.24.26:342][785]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:367][786]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:397][787]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:406][788]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:414][789]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:423][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:431][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:439][792]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:448][793]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:456][794]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:465][795]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:473][796]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:481][797]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:489][798]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:498][799]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.24.26:818][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.24.26:831][834]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫298C2305416D2809BFE2DC9C5D0CC064.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.24.26:845][834]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.24.26:845][834]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.26.39:482][421]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:502][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:533][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.08.04-07.26.39:541][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:541][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:541][421]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:578][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:578][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:579][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:605][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:605][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:605][423]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:616][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.39:616][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.26.39:616][424]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.04-07.26.39:625][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.26.40:078][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.26.40:092][473]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫14322F5F49E3E88FAEF21F9A5ED5E5AB.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.26.40:107][473]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.26.40:107][473]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.27.35:952][693]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.35:970][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.36:000][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.08.04-07.27.36:013][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.36:013][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.36:013][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.36:033][694]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.36:033][694]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.36:033][694]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.36:069][695]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.36:069][695]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.36:069][695]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.36:104][696]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.36:104][696]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.27.36:104][696]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.27.36:112][697]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.27.36:681][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.27.36:695][758]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫5F71AF824E5EB5AB50379D8805C66E5B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.27.36:712][758]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.27.36:712][758]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.29.10:113][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.04-07.29.10:115][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.034
+[2021.08.04-07.29.10:115][343]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BA_怪物動畫] ([1] browsable assets)...
+[2021.08.04-07.29.10:147][343]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫]
+[2021.08.04-07.29.10:147][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BA_怪物動畫]
+[2021.08.04-07.29.10:147][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BA_怪物動畫_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.08.04-07.29.10:163][343]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫_Auto5610C9F3148E13FE6D1088D9B642C7AB2.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BA_怪物動畫_Auto5.uasset'
+[2021.08.04-07.29.10:163][343]LogFileHelpers: Auto-saving content packages took 0.048
+[2021.08.04-07.31.04:666][200]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.31.04:681][200]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_怪物動畫.uasset: [Compiler] 等待、走路與跑步 to 攻擊  will never be taken, please connect something to  Can Enter Transition
+[2021.08.04-07.31.04:681][200]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BA_怪物動畫.uasset: [Compiler] 攻擊 to 等待、走路與跑步  will never be taken, please connect something to  Can Enter Transition
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:699][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:730][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.04-07.31.04:742][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:742][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:742][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:776][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:776][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:776][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:794][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:794][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.04:794][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.31.04:802][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.31.04:802][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.31.05:427][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.31.05:495][273]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫6647BC884806533A3485858EAF865F88.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.31.05:510][273]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.31.05:510][273]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.32.16:695][915]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.32.16:716][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.16:716][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.32.16:716][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.32.16:716][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.16:716][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.32.16:717][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.32.16:717][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.16:717][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.32.16:717][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.32.16:747][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.08.04-07.32.16:755][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.16:755][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.32.16:755][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.32.16:781][916]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.16:781][916]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.32.16:781][916]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.32.16:810][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.32.17:218][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.32.17:237][962]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫9AA2151740B9C8BDDCF3FEB0A016F4B0.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.32.17:248][962]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.32.17:248][962]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.32.47:868][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.08.04-07.32.48:941][119]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-07.32.48:978][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.04-07.32.49:007][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.04-07.32.49:032][119]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖ED046A364D4304C4849303925BBBC42B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap'
+[2021.08.04-07.32.49:044][119]LogFileHelpers: Saving map '遊戲地圖' took 0.066
+[2021.08.04-07.32.49:056][119]AssetCheck: New page: Asset Save: 遊戲地圖
+[2021.08.04-07.32.49:056][119]LogContentValidation: Display: Validating World /Game/地圖/遊戲地圖.遊戲地圖
+[2021.08.04-07.34.17:050][478]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BP/玩家攻擊.玩家攻擊
+[2021.08.04-07.34.17:054][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.34.17:325][478]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.04-07.34.19:080][680]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.34.19:081][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.34.19:157][680]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.34.19:157][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.34.22:685][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.04-07.34.34:636][332]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.34.34:636][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.34.38:267][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-07.35.30:977][697]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.35.31:221][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.35.31:232][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.35.31:236][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.11:808][383]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.36.12:044][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.12:050][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.12:052][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.12:256][386]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.36.12:495][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.12:500][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.36.12:501][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.01:194][ 61]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-07.37.01:526][ 61]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] Could not find a variable named "CharacterMovement" in 'BP_武器_C'.
+Make sure 'BP_武器_C' has been compiled for  Get CharacterMovement
+[2021.08.04-07.37.01:553][ 61]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] The property associated with  Character Movement  could not be found in '/Game/BP/BP_武器.BP_武器_C'
+[2021.08.04-07.37.01:649][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.08.04-07.37.02:315][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.04-07.37.02:346][111]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_武器1AE22122403AD5BF57C71DA1E38C790E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset'
+[2021.08.04-07.37.02:359][111]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.04-07.37.02:359][111]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-07.37.16:891][753]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-07.37.16:898][753]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2021.08.04-07.37.16:898][753]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2021.08.04-07.37.16:898][753]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.08.04-07.37.16:899][753]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.08.04-07.37.16:955][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.08.04-07.37.24:358][566]LogEditorTransaction: Undo Delete current selection
+[2021.08.04-07.37.24:590][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.24:595][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.24:597][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.25:684][668]LogEditorTransaction: Undo Add Component Nodes
+[2021.08.04-07.37.25:910][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.25:914][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.25:916][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.26:609][739]LogEditorTransaction: Undo Delete current selection
+[2021.08.04-07.37.26:836][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.26:841][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.37.26:842][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.05:377][127]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-07.38.05:403][127]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] Could not find a variable named "攻擊" in 'BP_武器_C'.
+Make sure 'BP_武器_C' has been compiled for  Set 攻擊
+[2021.08.04-07.38.05:403][127]LogBlueprint: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] Could not find a variable named "攻擊" in 'BP_武器_C'.
+Make sure 'BP_武器_C' has been compiled for  Set 攻擊
+[2021.08.04-07.38.05:405][127]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] The property associated with  攻擊  could not be found in '/Game/BP/BP_武器.BP_武器_C'
+[2021.08.04-07.38.05:405][127]LogBlueprint: Error: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\BP\BP_武器.uasset: [Compiler] The property associated with  攻擊  could not be found in '/Game/BP/BP_武器.BP_武器_C'
+[2021.08.04-07.38.05:460][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.08.04-07.38.07:385][338]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.07:614][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:617][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:619][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:762][339]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.07:990][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:994][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:996][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.07:998][339]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.38.08:258][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.08:264][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.08:265][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:368][436]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.09:600][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:604][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:606][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:742][437]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.09:969][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:973][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.09:975][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:155][445]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.38.10:388][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:393][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:395][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:517][447]LogEditorTransaction: Undo Paste clipboard contents
+[2021.08.04-07.38.10:746][447]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:751][447]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:752][447]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.10:892][448]LogEditorTransaction: Undo Delete current selection
+[2021.08.04-07.38.11:123][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:127][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:130][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:133][448]LogEditorTransaction: Undo Delete current selection
+[2021.08.04-07.38.11:368][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:373][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:375][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:578][449]LogEditorTransaction: Undo Delete current selection
+[2021.08.04-07.38.11:850][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:854][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:856][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.11:859][449]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.12:084][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:089][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:091][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:298][450]LogEditorTransaction: Undo Resize Node
+[2021.08.04-07.38.12:526][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:531][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:533][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:536][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.12:759][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:765][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:767][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.12:770][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.13:044][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:050][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:052][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:055][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.13:334][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:340][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:342][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:345][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.13:637][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:643][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:645][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:648][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.13:920][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:925][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:927][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.13:931][450]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.14:196][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.14:201][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.14:203][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.15:914][556]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.16:139][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.16:143][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.16:145][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.16:880][614]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.17:103][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.17:107][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.17:109][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.17:688][671]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.17:916][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.17:920][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.17:922][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.18:579][734]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.18:805][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.18:809][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.18:811][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.19:294][779]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.19:524][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.19:529][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.19:532][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:003][821]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.20:229][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:234][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:236][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:668][859]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.38.20:898][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:903][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.20:905][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.21:346][898]LogEditorTransaction: Undo Resize Node
+[2021.08.04-07.38.21:576][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.21:581][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.21:583][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.22:622][  8]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.22:850][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.22:855][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.22:857][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.23:596][ 83]LogEditorTransaction: Undo Create Pin Link
+[2021.08.04-07.38.23:823][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.23:827][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.23:829][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.24:737][177]LogEditorTransaction: Undo Move Node
+[2021.08.04-07.38.24:971][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.24:976][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.24:977][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.25:595][238]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.38.25:826][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.25:831][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.25:833][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.26:572][312]LogEditorTransaction: Undo Move Nodes
+[2021.08.04-07.38.26:800][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.26:805][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.26:807][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.27:938][431]LogEditorTransaction: Undo Paste clipboard contents
+[2021.08.04-07.38.28:167][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.28:172][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.28:174][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-07.38.29:663][588]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-07.38.29:730][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.08.04-07.38.30:452][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.04-07.38.30:483][656]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_武器A65E52374A7A068810F5C4ADB6CA6F8A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset'
+[2021.08.04-07.38.30:496][656]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.04-07.38.30:496][656]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-07.38.43:641][882]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-07.38.43:646][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-07.38.43:646][882]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午11:38:43)
+[2021.08.04-07.38.43:646][882]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.38.43:653][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006076s)
+[2021.08.04-07.38.43:653][882]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-07.38.43:654][882]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.08.04-07.38.43:654][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007239s)
+[2021.08.04-07.38.43:688][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.08.04-07.38.43:690][882]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-07.38.43:690][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-07.38.43:690][882]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-07.38.43:690][882]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-07.38.43:694][882]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-07.38.43:694][882]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-07.38.43:710][882]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-07.38.43:711][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-07.38.43:711][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-07.38.43:711][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-07.38.43:711][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-07.38.43:711][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-07.38.43:711][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-07.38.43:725][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-07.38.43:725][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-07.38.43:725][882]LogInit: FAudioDevice initialized.
+[2021.08.04-07.38.43:725][882]LogAudio: Display: Audio Device (ID: 97) registered with world '遊戲地圖'.
+[2021.08.04-07.38.43:783][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.38.43:783][882]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-07.38.43:787][882]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-15.38.43
+[2021.08.04-07.38.43:788][882]LogWorld: Bringing up level for play took: 0.004035
+[2021.08.04-07.38.43:788][882]LogOnline: OSS: Creating online subsystem instance for: :Context_147
+[2021.08.04-07.38.43:794][882]PIE: Server logged in
+[2021.08.04-07.38.43:795][882]PIE: Play in editor total start time 0.15 seconds.
+[2021.08.04-07.38.58:620][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-07.38.58:620][252]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-07.38.58:620][252]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-07.38.58:626][252]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.38.58:627][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.38.58:634][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-07.38.58:671][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.38.58:701][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-07.38.58:702][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.38.58:703][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-07.38.58:722][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.04-07.38.58:741][253]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2021.08.04-07.39.15:404][186]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.39.15:404][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.39.32:454][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-07.39.40:731][  5]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-07.39.40:731][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-07.39.52:372][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-07.42.38:079][597]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.42.38:102][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.42.38:140][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.04-07.42.38:150][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.38:151][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.42.38:151][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.42.38:173][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.38:174][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.04-07.42.38:174][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.04-07.42.38:211][599]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.04-07.42.39:026][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.08.04-07.42.39:044][692]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BA_怪物動畫C88F04F04F88412AD328C69D687FB3F1.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BA_怪物動畫.uasset'
+[2021.08.04-07.42.39:058][692]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.04-07.42.39:058][692]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.08.04-07.42.40:918][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.08.04-07.42.40:920][892]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BS_怪物等待走路與跑步568189744105F6609A0B98B7C3BD9DF9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.08.04-07.42.40:931][892]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.08.04-07.42.40:931][892]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.08.04-07.42.44:886][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.08.04-07.42.45:973][253]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-07.42.46:019][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-07.42.46:093][253]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制7FFAD5634FD5CC964D524BA28C26638D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-07.42.46:107][253]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-07.42.46:107][253]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
