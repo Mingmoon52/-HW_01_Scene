@@ -5405,3 +5405,295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_Base_Color.PlasticToolBox_Base_Color
 [2021.08.04-04.15.12:989][791]LogContentValidation: Display: Validating Material /Game/Material/BulletBox/source/PlasticToolBox.PlasticToolBox
 [2021.08.04-04.15.12:989][791]LogContentValidation: Display: Validating StaticMesh /Game/Material/BulletBox/source/PlasticToolBox_FBX.PlasticToolBox_FBX
+[2021.08.04-05.00.08:670][767]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-05.00.09:852][905]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-05.00.10:031][905]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.08.04-05.00.10:487][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.04-05.00.10:533][942]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_武器D2FAAF9046489F1EAB61B4968925150D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset'
+[2021.08.04-05.00.10:552][942]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.04-05.00.10:552][942]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-05.00.30:913][258]BlueprintLog: New page: Compile BP_武器
+[2021.08.04-05.00.30:988][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2021.08.04-05.00.31:468][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.04-05.00.31:502][304]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_武器82091E3146D9DD396BC2BBB1C5C7E661.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_武器.uasset'
+[2021.08.04-05.00.31:518][304]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.04-05.00.31:518][304]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.04-05.00.32:363][374]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.04-05.00.32:364][374]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.00.32:364][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.00.33:712][502]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.04-05.00.33:824][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.08.04-05.00.34:491][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.04-05.00.34:541][574]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面2E8F87E34661AAD7213833BCBCF7C09E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.08.04-05.00.34:555][574]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.04-05.00.34:555][574]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.04-05.00.38:772][979]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.00.38:772][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.00.38:783][979]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.00.38:783][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.00.40:413][122]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.00.40:659][122]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.08.04-05.00.41:259][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.00.41:317][170]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制974109E14C5FFD4499E9F998275097B1.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.00.41:329][170]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.00.41:329][170]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.01.28:667][345]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.01.28:788][345]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.08.04-05.01.29:296][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.01.29:354][384]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制C774D80A4F08C59AD03EF2A370B2F327.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.01.29:366][384]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.01.29:366][384]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.01.29:917][447]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-05.01.29:922][447]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.04-05.01.29:923][447]LogPlayLevel: [PlayLevel] Compiling BP_子彈 before play...
+[2021.08.04-05.01.29:955][447]LogPlayLevel: [PlayLevel] Compiling BP_子彈匣 before play...
+[2021.08.04-05.01.30:038][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.04-05.01.30:039][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (2 blueprints)
+[2021.08.04-05.01.30:039][447]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午9:01:30)
+[2021.08.04-05.01.30:040][447]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.01.30:048][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008218s)
+[2021.08.04-05.01.30:049][447]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-05.01.30:050][447]LogPlayLevel: PIE: World Init took: (0.001727s)
+[2021.08.04-05.01.30:050][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.010162s)
+[2021.08.04-05.01.30:075][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.08.04-05.01.30:078][447]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-05.01.30:078][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-05.01.30:078][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-05.01.30:079][447]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-05.01.30:079][447]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-05.01.30:172][447]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.01.30:172][447]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.01.30:191][447]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-05.01.30:191][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-05.01.30:191][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-05.01.30:191][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-05.01.30:192][447]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-05.01.30:192][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-05.01.30:192][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-05.01.30:206][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-05.01.30:206][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-05.01.30:206][447]LogInit: FAudioDevice initialized.
+[2021.08.04-05.01.30:206][447]LogAudio: Display: Audio Device (ID: 73) registered with world '遊戲地圖'.
+[2021.08.04-05.01.30:262][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.01.30:263][447]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-05.01.30:270][447]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-13.01.30
+[2021.08.04-05.01.30:270][447]LogWorld: Bringing up level for play took: 0.006245
+[2021.08.04-05.01.30:270][447]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.08.04-05.01.30:277][447]PIE: Server logged in
+[2021.08.04-05.01.30:278][447]PIE: Play in editor total start time 0.357 seconds.
+[2021.08.04-05.01.40:008][576]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-05.01.40:015][576]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.01.40:045][576]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.01.40:045][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.01.40:054][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-05.01.40:063][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.01.40:085][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.01.40:086][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.01.40:105][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.08.04-05.01.40:120][577]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.08.04-05.02.06:814][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.08.04-05.02.06:815][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.04-05.02.06:839][ 26]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖_Auto076E13BDC4FD7032456C4A3BBC965A546.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/地圖/遊戲地圖_Auto0.umap'
+[2021.08.04-05.02.06:840][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.055
+[2021.08.04-05.02.06:840][ 26]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2021.08.04-05.03.03:515][534]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.03.03:579][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.04-05.03.45:143][410]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.03.45:209][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.08.04-05.03.45:754][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.03.45:813][453]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制C0BC7DD942456FDE3BE53AA3761BCF79.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.03.45:827][453]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.03.45:827][453]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.05.02:823][ 33]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.05.02:890][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.08.04-05.05.03:493][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.05.03:552][ 84]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制7C7D3DED47CA22071D9953B9848C6EB3.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.05.03:568][ 84]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.05.03:568][ 84]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.05.20:758][378]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-05.05.20:763][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-05.05.20:763][378]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午9:05:20)
+[2021.08.04-05.05.20:763][378]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.05.20:768][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005845s)
+[2021.08.04-05.05.20:769][378]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-05.05.20:769][378]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2021.08.04-05.05.20:769][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007053s)
+[2021.08.04-05.05.20:796][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.04-05.05.20:796][378]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-05.05.20:796][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-05.05.20:797][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-05.05.20:797][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-05.05.20:797][378]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-05.05.20:797][378]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-05.05.20:800][378]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.05.20:800][378]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-05.05.20:818][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-05.05.20:818][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-05.05.20:831][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-05.05.20:831][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-05.05.20:831][378]LogInit: FAudioDevice initialized.
+[2021.08.04-05.05.20:832][378]LogAudio: Display: Audio Device (ID: 74) registered with world '遊戲地圖'.
+[2021.08.04-05.05.20:876][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.05.20:876][378]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-05.05.20:880][378]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-13.05.20
+[2021.08.04-05.05.20:880][378]LogWorld: Bringing up level for play took: 0.003182
+[2021.08.04-05.05.20:880][378]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.08.04-05.05.20:888][378]PIE: Server logged in
+[2021.08.04-05.05.20:891][378]PIE: Play in editor total start time 0.129 seconds.
+[2021.08.04-05.05.50:335][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.05.50:335][882]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.05.50:336][882]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-05.05.50:343][882]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.05.50:344][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.05.50:352][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-05.05.50:362][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.05.50:385][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-05.05.50:386][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.05.50:386][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.05.50:406][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.08.04-05.05.50:430][883]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.08.04-05.07.03:539][909]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-05.07.03:544][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-05.07.03:544][909]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午9:07:03)
+[2021.08.04-05.07.03:544][909]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.07.03:550][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005916s)
+[2021.08.04-05.07.03:551][909]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-05.07.03:551][909]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2021.08.04-05.07.03:551][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.006969s)
+[2021.08.04-05.07.03:576][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.08.04-05.07.03:577][909]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-05.07.03:577][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-05.07.03:577][909]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-05.07.03:577][909]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-05.07.03:580][909]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.07.03:580][909]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.07.03:596][909]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-05.07.03:596][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-05.07.03:596][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-05.07.03:596][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-05.07.03:597][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-05.07.03:597][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-05.07.03:597][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-05.07.03:610][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-05.07.03:611][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-05.07.03:611][909]LogInit: FAudioDevice initialized.
+[2021.08.04-05.07.03:611][909]LogAudio: Display: Audio Device (ID: 75) registered with world '遊戲地圖'.
+[2021.08.04-05.07.03:667][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.07.03:667][909]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-05.07.03:671][909]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-13.07.03
+[2021.08.04-05.07.03:671][909]LogWorld: Bringing up level for play took: 0.003221
+[2021.08.04-05.07.03:671][909]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2021.08.04-05.07.03:679][909]PIE: Server logged in
+[2021.08.04-05.07.03:682][909]PIE: Play in editor total start time 0.139 seconds.
+[2021.08.04-05.07.09:455][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.07.09:455][563]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.07.09:456][563]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-05.07.09:463][563]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.07.09:464][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.07.09:472][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-05.07.09:482][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.07.09:503][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.07.09:504][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.07.09:522][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.04-05.07.09:544][564]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2021.08.04-05.07.52:861][969]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.07.52:925][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.08.04-05.07.54:372][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.07.54:433][ 90]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制0FA2E3784FAE05FDE8B9B7BAEE90970C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.07.54:449][ 90]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.07.54:449][ 90]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.07.55:193][174]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-05.07.55:198][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-05.07.55:198][174]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午9:07:55)
+[2021.08.04-05.07.55:198][174]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.07.55:204][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005609s)
+[2021.08.04-05.07.55:205][174]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-05.07.55:205][174]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2021.08.04-05.07.55:205][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.006792s)
+[2021.08.04-05.07.55:232][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.04-05.07.55:232][174]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-05.07.55:232][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-05.07.55:232][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-05.07.55:233][174]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-05.07.55:233][174]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-05.07.55:235][174]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.07.55:235][174]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.07.55:251][174]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-05.07.55:251][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-05.07.55:252][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-05.07.55:252][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-05.07.55:252][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-05.07.55:252][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-05.07.55:252][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-05.07.55:265][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-05.07.55:265][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-05.07.55:265][174]LogInit: FAudioDevice initialized.
+[2021.08.04-05.07.55:265][174]LogAudio: Display: Audio Device (ID: 76) registered with world '遊戲地圖'.
+[2021.08.04-05.07.55:320][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.07.55:320][174]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-05.07.55:323][174]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-13.07.55
+[2021.08.04-05.07.55:324][174]LogWorld: Bringing up level for play took: 0.003126
+[2021.08.04-05.07.55:324][174]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2021.08.04-05.07.55:331][174]PIE: Server logged in
+[2021.08.04-05.07.55:334][174]PIE: Play in editor total start time 0.137 seconds.
+[2021.08.04-05.08.05:705][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-05.08.05:705][372]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-05.08.05:705][372]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.04-05.08.05:712][372]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-05.08.05:713][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.08.05:721][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-05.08.05:731][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-05.08.05:752][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-05.08.05:753][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.08.05:754][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-05.08.05:773][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.08.04-05.08.05:799][373]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2021.08.04-05.08.13:028][217]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.08.13:095][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.08.04-05.08.13:843][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.08.13:902][284]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制4DED732D4369ADF63ED83EB97426A62C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.08.13:917][284]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.08.13:917][284]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-05.12.01:800][620]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3e432869-80db-44aa-857d-68f5885a0298}.
+[2021.08.04-05.12.01:805][620]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.04-05.12.01:857][620]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.12.01:857][620]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.17.26:442][316]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0ea44ba0-ae43-41d4-bcc5-94752b5c1d3b}.
+[2021.08.04-05.17.26:442][316]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.04-05.17.26:462][316]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-05.17.26:462][316]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-05.18.13:354][147]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-05.18.13:426][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.08.04-05.18.13:960][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-05.18.14:020][187]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制8863782E4DAEC1D4CC6D9BAFF760C37C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-05.18.14:034][187]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-05.18.14:035][187]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
