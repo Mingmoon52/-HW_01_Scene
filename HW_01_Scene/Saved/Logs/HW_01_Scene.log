@@ -7140,3 +7140,350 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Texture2D /Game/怪物/MAW_diffuse.MAW_diffuse
 [2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Material /Game/怪物/MAW_MAT.MAW_MAT
 [2021.08.04-06.26.27:147][410]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/maw_j_laygo.maw_j_laygo
+[2021.08.04-06.26.58:760][834]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物/maw_j_laygo.maw_j_laygo
+[2021.08.04-06.26.58:763][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-06.27.02:287][ 94]LogSlate: Window 'maw_j_laygo' being destroyed
+[2021.08.04-06.27.02:293][ 94]LogSlate: Window 'maw_j_laygo' being destroyed
+[2021.08.04-06.27.02:329][ 94]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.27.02:329][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.28.34:914][562]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物/maw_j_laygo.maw_j_laygo
+[2021.08.04-06.28.34:918][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-06.28.37:559][742]LogSlate: Window 'maw_j_laygo' being destroyed
+[2021.08.04-06.28.58:889][254]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.28.58:889][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.29.03:422][739]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-06.29.03:427][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-06.29.03:427][739]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午10:29:03)
+[2021.08.04-06.29.03:460][739]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.29.03:466][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005960s)
+[2021.08.04-06.29.03:467][739]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-06.29.03:467][739]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.08.04-06.29.03:467][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007145s)
+[2021.08.04-06.29.03:486][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.04-06.29.03:499][739]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-06.29.03:499][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-06.29.03:499][739]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-06.29.03:499][739]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-06.29.03:502][739]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-06.29.03:502][739]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-06.29.03:519][739]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-06.29.03:519][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-06.29.03:519][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-06.29.03:519][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-06.29.03:520][739]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-06.29.03:520][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-06.29.03:520][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-06.29.03:533][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-06.29.03:533][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-06.29.03:533][739]LogInit: FAudioDevice initialized.
+[2021.08.04-06.29.03:533][739]LogAudio: Display: Audio Device (ID: 89) registered with world '遊戲地圖'.
+[2021.08.04-06.29.03:541][739]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-06.29.03:545][739]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-14.29.03
+[2021.08.04-06.29.03:545][739]LogWorld: Bringing up level for play took: 0.002893
+[2021.08.04-06.29.03:546][739]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2021.08.04-06.29.03:550][739]PIE: Server logged in
+[2021.08.04-06.29.03:550][739]PIE: Play in editor total start time 0.124 seconds.
+[2021.08.04-06.29.26:830][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.29.26:831][525]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.29.26:831][525]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.29.26:831][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.29.26:839][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-06.29.26:847][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.29.26:860][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.04-06.29.26:860][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.29.26:861][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.29.26:876][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.29.26:880][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.04-06.29.26:910][526]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2021.08.04-06.29.35:469][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-06.30.05:869][478]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-06.30.10:297][977]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-06.30.14:261][439]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.04-06.30.14:328][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.08.04-06.30.14:997][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-06.30.15:065][496]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制9181B22C4CF6A2A0C54CE28C1C21469E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-06.30.15:076][496]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.04-06.30.15:076][496]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-06.40.43:854][456]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Catwalk Idle Twist R.fbx)
+[2021.08.04-06.40.43:862][456]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Catwalk Idle Twist R.fbx
+[2021.08.04-06.40.43:881][456]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.40.46:579][456]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-06.40.46:619][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.04-06.40.46:622][456]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.04-06.40.46:803][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.04-06.40.46:804][456]FBXImport: Import was canceled. 
+[2021.08.04-06.40.46:909][456]LogAssetTools: The import task was canceled.
+[2021.08.04-06.40.48:740][633]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.40.48:745][633]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.40.54:439][970]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Run.fbx)
+[2021.08.04-06.40.54:446][970]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Run.fbx
+[2021.08.04-06.40.54:463][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.41.08:301][970]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.41.08:317][970]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.41.08:318][970]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.41.08:318][970]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.41.08:425][970]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Run.Mutant_Run
+[2021.08.04-06.41.08:425][970]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Run.Mutant_Run
+[2021.08.04-06.41.08:425][970]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Walking.fbx)
+[2021.08.04-06.41.08:450][970]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Walking.fbx
+[2021.08.04-06.41.08:468][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.41.08:470][970]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.41.08:471][970]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.41.08:601][970]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Swiping.fbx)
+[2021.08.04-06.41.08:608][970]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Swiping.fbx
+[2021.08.04-06.41.08:628][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.41.08:630][970]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.41.08:631][970]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.41.09:274][970]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Downloads\Catwalk Idle Twist R.fbx)
+[2021.08.04-06.41.09:298][970]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Catwalk Idle Twist R.fbx
+[2021.08.04-06.41.09:318][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.41.09:320][970]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.41.09:320][970]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.41.09:622][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Catwalk_Idle_Twist_R.Catwalk_Idle_Twist_R
+[2021.08.04-06.41.09:622][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Swiping.Mutant_Swiping
+[2021.08.04-06.41.09:956][972]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Mutant_Walking.Mutant_Walking
+[2021.08.04-06.41.40:936][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.04-06.41.41:950][450]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-06.41.41:978][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Catwalk_Idle_Twist_R" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Catwalk_Idle_Twist_R.uasset" SILENT=true
+[2021.08.04-06.41.41:984][450]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Catwalk_Idle_Twist_R9C0ABAF247E7DBE0E1D9D88DDCC432C4.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Catwalk_Idle_Twist_R.uasset'
+[2021.08.04-06.41.41:993][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Mutant_Run" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Run.uasset" SILENT=true
+[2021.08.04-06.41.41:998][450]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Mutant_RunF4B32A3A4B7777D1822E048878E70B47.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Run.uasset'
+[2021.08.04-06.41.42:006][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Mutant_Swiping" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Swiping.uasset" SILENT=true
+[2021.08.04-06.41.42:013][450]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Mutant_Swiping71F7F041450204626A331682CA7C3808.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Swiping.uasset'
+[2021.08.04-06.41.42:022][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Mutant_Walking" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Walking.uasset" SILENT=true
+[2021.08.04-06.41.42:027][450]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Mutant_WalkingF407ADFF4CA9C9EA5208CF8FA07CCE5B.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/Mutant_Walking.uasset'
+[2021.08.04-06.41.42:040][450]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Catwalk_Idle_Twist_R.Catwalk_Idle_Twist_R
+[2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Swiping.Mutant_Swiping
+[2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Walking.Mutant_Walking
+[2021.08.04-06.41.42:040][450]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Mutant_Run.Mutant_Run
