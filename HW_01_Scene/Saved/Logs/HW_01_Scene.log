@@ -6956,3 +6956,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-06.24.56:735][207]LogSlate: Window 'PlasticToolBox' being destroyed
 [2021.08.04-06.24.56:779][207]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
 [2021.08.04-06.24.56:779][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.26.07:512][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\maw_j_laygo.fbx)
+[2021.08.04-06.26.07:629][ 15]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\maw_j_laygo.fbx
+[2021.08.04-06.26.07:917][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-06.26.16:042][ 15]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-06.26.16:130][ 15]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node MAW : The relative matrices do not match
+[2021.08.04-06.26.16:130][ 15]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.04-06.26.16:131][ 15]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - MAW
+[2021.08.04-06.26.16:131][ 15]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.04-06.26.16:154][ 15]LogMaterial: Display: Material /Game/怪物/MAW_MAT.MAW_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.04-06.26.16:155][ 15]LogMaterial: Display: Missing cached shader map for material MAW_MAT, compiling. 
+[2021.08.04-06.26.16:279][ 15]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.08.04-06.26.16:279][ 15]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.08.04-06.26.16:279][ 15]LogTexture: Display: Building textures: MAW_diffuse (AutoDXT, 2048X2048)
+[2021.08.04-06.26.17:872][ 15]LogTexture: Display: Building textures: MAW_glow (AutoDXT, 512X512)
+[2021.08.04-06.26.18:011][ 15]LogTexture: Display: Building textures: maria_specular (AutoDXT, 2048X2048)
+[2021.08.04-06.26.18:928][ 15]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.04-06.26.18:982][ 15]LogTexture: Display: Building textures: MAW_normal (BC5, 1024X1024)
+[2021.08.04-06.26.19:059][ 15]LogMaterial: Display: Missing cached shader map for material MAW_MAT, compiling. 
+[2021.08.04-06.26.19:095][ 15]LogFbx: Triangulating skeletal mesh MAW
+[2021.08.04-06.26.19:483][ 15]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.08.04-06.26.19:504][ 15]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2021.08.04-06.26.19:961][ 15]LogSkeletalMesh: Section 0: Material=0, 13910 triangles
+[2021.08.04-06.26.19:995][ 15]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.08.04-06.26.19:995][ 15]LogSkeletalMesh: Building Skeletal Mesh maw_j_laygo...
+[2021.08.04-06.26.20:288][ 15]LogSkeletalMesh: Section 0: Material=0, 13910 triangles
+[2021.08.04-06.26.20:347][ 15]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/怪物/maw_j_laygo.maw_j_laygo
+[2021.08.04-06.26.20:448][ 15]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.26.20:449][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.26.20:474][ 15]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.26.20:475][ 15]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(0) Hips
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(1) Spine
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(2) Spine1
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(3) Spine2
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(4) Neck
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(5) Head
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.04-06.26.20:476][ 15]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(23) LeftHandPinky1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(24) LeftHandPinky2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(25) LeftHandPinky3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(26) LeftHandPinky4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(27) RightShoulder
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(28) RightArm
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(29) RightForeArm
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(30) RightHand
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(43) RightHandPinky1
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(44) RightHandPinky2
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(45) RightHandPinky3
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(46) RightHandPinky4
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(48) LeftLeg
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(49) LeftFoot
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(53) RightLeg
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(54) RightFoot
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(55) RightToeBase
+[2021.08.04-06.26.20:477][ 15]LogFbx: SortedLinks :(56) RightToe_End
+[2021.08.04-06.26.20:478][ 15]LogFbx: Parsing AnimStack Take 001
+[2021.08.04-06.26.20:563][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/maw_j_laygo_Anim_Take_001.maw_j_laygo_Anim_Take_001
+[2021.08.04-06.26.20:563][ 15]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.04-06.26.20:587][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/maw_j_laygo_Anim_mixamo_com.maw_j_laygo_Anim_mixamo_com
+[2021.08.04-06.26.20:614][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-06.26.22:510][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.04-06.26.22:919][209]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.04-06.26.23:159][235]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.26.23:164][235]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-06.26.25:226][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.04-06.26.26:338][410]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-06.26.26:379][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maria_specular" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maria_specular.uasset" SILENT=true
+[2021.08.04-06.26.26:602][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maria_specular1FD26DC749CE3BA321CDD681573B271A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maria_specular.uasset'
+[2021.08.04-06.26.26:607][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/MAW_diffuse" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_diffuse.uasset" SILENT=true
+[2021.08.04-06.26.26:914][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/MAW_diffuseBDB9AB444CF04DD9259848B8C40B779A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_diffuse.uasset'
+[2021.08.04-06.26.26:917][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/MAW_glow" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_glow.uasset" SILENT=true
+[2021.08.04-06.26.26:923][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/MAW_glow8FAC224044A3013FC6AFA2BD8F4B9FEF.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_glow.uasset'
+[2021.08.04-06.26.26:932][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maw_j_laygo" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo.uasset" SILENT=true
+[2021.08.04-06.26.26:961][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maw_j_laygo6803BF09484F9C9493CA018656B8B0E4.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo.uasset'
+[2021.08.04-06.26.26:970][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maw_j_laygo_Anim_mixamo_com" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Anim_mixamo_com.uasset" SILENT=true
+[2021.08.04-06.26.26:975][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maw_j_laygo_Anim_mixamo_comA3C96127428083BF0839E9A5330105D2.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Anim_mixamo_com.uasset'
+[2021.08.04-06.26.26:984][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maw_j_laygo_Anim_Take_001" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Anim_Take_001.uasset" SILENT=true
+[2021.08.04-06.26.26:990][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maw_j_laygo_Anim_Take_001B347B6AE47DF5E3F958BABB3D93E6034.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Anim_Take_001.uasset'
+[2021.08.04-06.26.26:999][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maw_j_laygo_PhysicsAsset" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_PhysicsAsset.uasset" SILENT=true
+[2021.08.04-06.26.27:027][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maw_j_laygo_PhysicsAssetE83C4E5F492A476936379A9CDECE72B3.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_PhysicsAsset.uasset'
+[2021.08.04-06.26.27:028][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/maw_j_laygo_Skeleton" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Skeleton.uasset" SILENT=true
+[2021.08.04-06.26.27:029][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/maw_j_laygo_Skeleton6C6D75384799FE8F8E19598382B8F458.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/maw_j_laygo_Skeleton.uasset'
+[2021.08.04-06.26.27:038][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/MAW_MAT" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_MAT.uasset" SILENT=true
+[2021.08.04-06.26.27:044][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/MAW_MATF498A2C849E182EAB43179AFD9B72FF9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_MAT.uasset'
+[2021.08.04-06.26.27:050][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/MAW_normal" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_normal.uasset" SILENT=true
+[2021.08.04-06.26.27:129][410]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/MAW_normalDD5C810E43E613E3BAA172ACC0FC2E9F.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/怪物/MAW_normal.uasset'
+[2021.08.04-06.26.27:146][410]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating AnimSequence /Game/怪物/maw_j_laygo_Anim_mixamo_com.maw_j_laygo_Anim_mixamo_com
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating AnimSequence /Game/怪物/maw_j_laygo_Anim_Take_001.maw_j_laygo_Anim_Take_001
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/maw_j_laygo_PhysicsAsset.maw_j_laygo_PhysicsAsset
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Skeleton /Game/怪物/maw_j_laygo_Skeleton.maw_j_laygo_Skeleton
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Texture2D /Game/怪物/MAW_normal.MAW_normal
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Texture2D /Game/怪物/maria_specular.maria_specular
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Texture2D /Game/怪物/MAW_glow.MAW_glow
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Texture2D /Game/怪物/MAW_diffuse.MAW_diffuse
+[2021.08.04-06.26.27:146][410]LogContentValidation: Display: Validating Material /Game/怪物/MAW_MAT.MAW_MAT
+[2021.08.04-06.26.27:147][410]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/maw_j_laygo.maw_j_laygo
