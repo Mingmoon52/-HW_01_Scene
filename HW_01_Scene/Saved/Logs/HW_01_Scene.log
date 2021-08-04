@@ -6589,3 +6589,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-06.01.51:336][429]AssetCheck: New page: Asset Save: BP_遊戲介面
 [2021.08.04-06.01.51:336][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
 [2021.08.04-06.03.03:194][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.08.04-06.04.18:839][504]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-06.04.18:845][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-06.04.18:845][504]PIE: New page: PIE session: 遊戲地圖 (2021年8月4日 下午10:04:18)
+[2021.08.04-06.04.18:870][504]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.04.18:876][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005885s)
+[2021.08.04-06.04.18:876][504]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.04-06.04.18:877][504]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2021.08.04-06.04.18:877][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.007146s)
+[2021.08.04-06.04.18:907][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.04-06.04.18:908][504]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-06.04.18:908][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-06.04.18:908][504]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-06.04.18:908][504]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-06.04.18:911][504]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-06.04.18:911][504]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-06.04.18:928][504]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.04-06.04.18:928][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-06.04.18:928][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-06.04.18:928][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-06.04.18:929][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-06.04.18:929][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-06.04.18:929][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-06.04.18:942][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-06.04.18:942][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-06.04.18:942][504]LogInit: FAudioDevice initialized.
+[2021.08.04-06.04.18:942][504]LogAudio: Display: Audio Device (ID: 88) registered with world '遊戲地圖'.
+[2021.08.04-06.04.18:957][504]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.04-06.04.18:961][504]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.04-14.04.18
+[2021.08.04-06.04.18:961][504]LogWorld: Bringing up level for play took: 0.003130
+[2021.08.04-06.04.18:962][504]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2021.08.04-06.04.18:965][504]PIE: Server logged in
+[2021.08.04-06.04.18:966][504]PIE: Play in editor total start time 0.122 seconds.
+[2021.08.04-06.04.27:311][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.04.27:311][493]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.04-06.04.27:311][493]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-06.04.27:312][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.04.27:319][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-06.04.27:329][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-06.04.27:356][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-06.04.27:357][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.04.27:358][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.04-06.04.27:376][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.08.04-06.04.27:409][494]LogPlayLevel: Display: Destroying online subsystem :Context_113
