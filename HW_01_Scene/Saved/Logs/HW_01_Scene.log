@@ -5268,3 +5268,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-03.54.42:251][338]LogAudioMixer: Resetting audio stream to device id 
 [2021.08.04-03.54.42:283][338]LogAudioMixer: Display: 0: FrontLeft
 [2021.08.04-03.54.42:283][338]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-04.14.26:495][506]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 可商用_開槍音效...
+[2021.08.04-04.14.26:509][506]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/素材/可商用_開槍音效.可商用_開槍音效 will be modified from 40 to 40.
+[2021.08.04-04.14.26:596][506]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 57008 while cooking SoundWave /Game/素材/可商用_開槍音效.可商用_開槍音效.
+[2021.08.04-04.14.26:712][506]LogMetaData: Removing '/Game/Material/子彈箱/source/PlasticToolBox_FBX.PlasticToolBox_FBX' ref from Metadata '/Game/素材/子彈箱/source/PlasticToolBox_FBX.PackageMetaData'
+[2021.08.04-04.14.26:746][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_子彈" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/M_子彈.uasset" SILENT=true
+[2021.08.04-04.14.26:752][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/M_子彈39AAE26C4C982B7EB68D58B4A5B10A97.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/M_子彈.uasset'
+[2021.08.04-04.14.26:756][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/S_開槍音效" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/S_開槍音效.uasset" SILENT=true
+[2021.08.04-04.14.26:768][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/S_開槍音效09EAD44942E119FA18576A856334A16E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/S_開槍音效.uasset'
+[2021.08.04-04.14.26:769][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/準心" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/準心.uasset" SILENT=true
+[2021.08.04-04.14.26:770][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/準心26E824D14224F78A23FE88BEBD9EDB93.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/準心.uasset'
+[2021.08.04-04.14.26:771][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/玩家小地圖顯示" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/玩家小地圖顯示.uasset" SILENT=true
+[2021.08.04-04.14.26:772][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/玩家小地圖顯示B38E661747F6623BD70ED1AD8803C24A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/玩家小地圖顯示.uasset'
+[2021.08.04-04.14.26:773][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/血量ICON" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/血量ICON.uasset" SILENT=true
+[2021.08.04-04.14.26:775][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/血量ICON08D7348C4EC2D21F088F3D8F68B7551D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/血量ICON.uasset'
+[2021.08.04-04.14.26:776][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/護盾ICON" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/護盾ICON.uasset" SILENT=true
+[2021.08.04-04.14.26:777][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/護盾ICON0045B24249F4F6EE4A465D8B2010AA7E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/護盾ICON.uasset'
+[2021.08.04-04.14.26:778][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/血量" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/血量.uasset" SILENT=true
+[2021.08.04-04.14.26:780][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/血量0AFF0F4D42041EA707A23DA70C7CF8C9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/血量.uasset'
+[2021.08.04-04.14.26:827][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Roughness6B2A581B453BE60834EF158BA8A66847.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/textures/PlasticToolBox_Roughness.uasset'
+[2021.08.04-04.14.27:017][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_PlasticToolBox_AmCC434AA24D002A713D6AA8AA0FF2BBE3.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.uasset'
+[2021.08.04-04.14.27:444][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Normal_OpenGL250BEEBA4D8B164BD551EE80ACB8EF76.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/textures/PlasticToolBox_Normal_OpenGL.uasset'
+[2021.08.04-04.14.27:452][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Metallic688F0B4A44FF334E241C9CAEFC9256F7.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/textures/PlasticToolBox_Metallic.uasset'
+[2021.08.04-04.14.27:541][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Base_Color996D8B464F1A448B9C315B947C95FB38.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/textures/PlasticToolBox_Base_Color.uasset'
+[2021.08.04-04.14.27:572][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox6930EA36401488389D34D1B0461172BA.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/source/PlasticToolBox.uasset'
+[2021.08.04-04.14.27:592][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_FBXE2105A09471EF871933B1ABF5DFF49F2.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/子彈箱/source/PlasticToolBox_FBX.uasset'
+[2021.08.04-04.14.27:597][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/拿彈匣429591__inspectorj__chewing-b96EC5E3A44D81BD7578757ABC373528C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/拿彈匣429591__inspectorj__chewing-breadstick-single-d.uasset'
+[2021.08.04-04.14.27:600][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/可商用_開槍音效" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/可商用_開槍音效.uasset" SILENT=true
+[2021.08.04-04.14.27:602][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/可商用_開槍音效FDCB4D574386A60BAA43918AA454D794.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/可商用_開槍音效.uasset'
+[2021.08.04-04.14.27:606][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/地圖.uasset" SILENT=true
+[2021.08.04-04.14.27:607][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/地圖27953FD84E564027CC6B73A43B8E9F8C.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/地圖.uasset'
+[2021.08.04-04.14.28:016][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.08.04-04.14.28:062][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.04-04.14.28:098][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.04-04.14.28:139][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.04-04.14.28:176][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.04-04.14.28:215][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.04-04.14.28:252][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:289][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.04-04.14.28:326][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.04-04.14.28:364][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.04-04.14.28:401][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:439][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:475][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.04-04.14.28:511][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:547][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:584][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.04-04.14.28:621][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.28:667][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.08.04-04.14.28:707][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.04-04.14.28:762][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈.uasset" SILENT=true
+[2021.08.04-04.14.28:770][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_子彈80FC16754AE1933B6601288FD0E556D6.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈.uasset'
+[2021.08.04-04.14.28:770][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.04-04.14.28:818][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_遊戲介面4A24349041A19DB31F1A13BCB6EC392E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_遊戲介面.uasset'
+[2021.08.04-04.14.28:827][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈匣" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset" SILENT=true
+[2021.08.04-04.14.28:834][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_子彈匣7693260C4328D89209BB1EB5C79773BB.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset'
+[2021.08.04-04.14.28:851][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.04-04.14.28:910][506]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_玩家控制1F6E314F4FF1EF73A14A12BA2DB454E2.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_玩家控制.uasset'
+[2021.08.04-04.14.28:995][506]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-04.14.28:995][506]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating Material /Game/Material/M_子彈.M_子彈
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating SoundWave /Game/Material/S_開槍音效.S_開槍音效
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating Texture2D /Game/Material/準心.準心
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating Texture2D /Game/Material/玩家小地圖顯示.玩家小地圖顯示
+[2021.08.04-04.14.28:996][506]LogContentValidation: Display: Validating Texture2D /Game/Material/血量ICON.血量ICON
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/護盾ICON.護盾ICON
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/血量.血量
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈匣.BP_子彈匣
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/子彈箱/textures/PlasticToolBox_Roughness.PlasticToolBox_Roughness
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/子彈箱/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.PlasticToolBox_PlasticToolBox_AmbientOcclu
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/子彈箱/textures/PlasticToolBox_Normal_OpenGL.PlasticToolBox_Normal_OpenGL
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/子彈箱/textures/PlasticToolBox_Metallic.PlasticToolBox_Metallic
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/子彈箱/textures/PlasticToolBox_Base_Color.PlasticToolBox_Base_Color
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Material /Game/Material/子彈箱/source/PlasticToolBox.PlasticToolBox
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating StaticMesh /Game/Material/子彈箱/source/PlasticToolBox_FBX.PlasticToolBox_FBX
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating SoundWave /Game/Material/拿彈匣429591__inspectorj__chewing-breadstick-single-d.拿彈匣429591__inspectorj__chewing-breadstick-single-d
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating Texture2D /Game/Material/地圖.地圖
+[2021.08.04-04.14.28:997][506]LogContentValidation: Display: Validating SoundWave /Game/Material/可商用_開槍音效.可商用_開槍音效
+[2021.08.04-04.14.55:080][520]LogContentBrowser: Attempting asset rename: 子彈箱 -> Bulletox
+[2021.08.04-04.14.55:107][520]LogMetaData: Removing '/Game/Material/Bulletox/source/PlasticToolBox_FBX.PlasticToolBox_FBX' ref from Metadata '/Game/Material/子彈箱/source/PlasticToolBox_FBX.PackageMetaData'
+[2021.08.04-04.14.55:166][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Roughness3A8400564D3477418C5970A331B8772E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/textures/PlasticToolBox_Roughness.uasset'
+[2021.08.04-04.14.55:350][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_PlasticToolBox_Am2AD8900C43263BBD3332DCA5418C42DB.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.uasset'
+[2021.08.04-04.14.55:735][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Normal_OpenGL0F25D945486D02814B2C78ACD8451B0A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/textures/PlasticToolBox_Normal_OpenGL.uasset'
+[2021.08.04-04.14.55:739][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Metallic1A939990431358EB7F3B90A77F294047.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/textures/PlasticToolBox_Metallic.uasset'
+[2021.08.04-04.14.55:823][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Base_ColorBDEC53AB4617891BB35776A298DF70DF.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/textures/PlasticToolBox_Base_Color.uasset'
+[2021.08.04-04.14.55:838][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox0EB1DB664AE252F0D105FCB096770102.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/source/PlasticToolBox.uasset'
+[2021.08.04-04.14.55:856][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_FBXA1E4379143D81A854F81BAAF5CE046CB.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/Bulletox/source/PlasticToolBox_FBX.uasset'
+[2021.08.04-04.14.56:384][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.08.04-04.14.56:429][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.04-04.14.56:469][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.04-04.14.56:507][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.04-04.14.56:545][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.56:583][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.04-04.14.56:623][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.14.56:668][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.08.04-04.14.56:706][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.04-04.14.56:747][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈匣" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset" SILENT=true
+[2021.08.04-04.14.56:754][520]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_子彈匣C45A2D904F82D91A7FFDF8A81FD31115.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset'
+[2021.08.04-04.14.56:821][520]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈匣.BP_子彈匣
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Texture2D /Game/Material/Bulletox/textures/PlasticToolBox_Roughness.PlasticToolBox_Roughness
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Texture2D /Game/Material/Bulletox/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.PlasticToolBox_PlasticToolBox_AmbientOcclu
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Texture2D /Game/Material/Bulletox/textures/PlasticToolBox_Normal_OpenGL.PlasticToolBox_Normal_OpenGL
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Texture2D /Game/Material/Bulletox/textures/PlasticToolBox_Metallic.PlasticToolBox_Metallic
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Texture2D /Game/Material/Bulletox/textures/PlasticToolBox_Base_Color.PlasticToolBox_Base_Color
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating Material /Game/Material/Bulletox/source/PlasticToolBox.PlasticToolBox
+[2021.08.04-04.14.56:822][520]LogContentValidation: Display: Validating StaticMesh /Game/Material/Bulletox/source/PlasticToolBox_FBX.PlasticToolBox_FBX
+[2021.08.04-04.15.11:260][791]LogContentBrowser: Attempting asset rename: Bulletox -> BulletBox
+[2021.08.04-04.15.11:294][791]LogMetaData: Removing '/Game/Material/BulletBox/source/PlasticToolBox_FBX.PlasticToolBox_FBX' ref from Metadata '/Game/Material/Bulletox/source/PlasticToolBox_FBX.PackageMetaData'
+[2021.08.04-04.15.11:351][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_RoughnessBA96A362482943BB29772A9665B87731.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/textures/PlasticToolBox_Roughness.uasset'
+[2021.08.04-04.15.11:535][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_PlasticToolBox_AmC35B75334A676FBEEFD69288A2C349C8.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.uasset'
+[2021.08.04-04.15.11:930][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Normal_OpenGL37D43CC64EC4A86CA9673F91BD4AA2C9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/textures/PlasticToolBox_Normal_OpenGL.uasset'
+[2021.08.04-04.15.11:935][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_MetallicF19C695A42A845DA1C2938A50ED6F30A.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/textures/PlasticToolBox_Metallic.uasset'
+[2021.08.04-04.15.12:024][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_Base_Color5D3B50014A3E1D4A774D6695645FEC61.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/textures/PlasticToolBox_Base_Color.uasset'
+[2021.08.04-04.15.12:354][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBoxAABA4B9741D54D7E17798A811FBB4A0D.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/source/PlasticToolBox.uasset'
+[2021.08.04-04.15.12:372][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/PlasticToolBox_FBXC2F1FDFA477ED4D92982E3AF4E7C6326.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/Material/BulletBox/source/PlasticToolBox_FBX.uasset'
+[2021.08.04-04.15.12:579][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.04-04.15.12:619][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.15.12:656][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.15.12:693][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.15.12:729][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.04-04.15.12:765][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.04-04.15.12:802][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.04-04.15.12:846][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.08.04-04.15.12:883][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.04-04.15.12:915][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈匣" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset" SILENT=true
+[2021.08.04-04.15.12:922][791]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_子彈匣5612CE0C41A9FF4296F889A6280843A1.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_子彈匣.uasset'
+[2021.08.04-04.15.12:988][791]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈匣.BP_子彈匣
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_Roughness.PlasticToolBox_Roughness
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_PlasticToolBox_AmbientOcclu.PlasticToolBox_PlasticToolBox_AmbientOcclu
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_Normal_OpenGL.PlasticToolBox_Normal_OpenGL
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_Metallic.PlasticToolBox_Metallic
+[2021.08.04-04.15.12:988][791]LogContentValidation: Display: Validating Texture2D /Game/Material/BulletBox/textures/PlasticToolBox_Base_Color.PlasticToolBox_Base_Color
+[2021.08.04-04.15.12:989][791]LogContentValidation: Display: Validating Material /Game/Material/BulletBox/source/PlasticToolBox.PlasticToolBox
+[2021.08.04-04.15.12:989][791]LogContentValidation: Display: Validating StaticMesh /Game/Material/BulletBox/source/PlasticToolBox_FBX.PlasticToolBox_FBX
