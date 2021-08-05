@@ -10598,3 +10598,1461 @@ Script Stack (0 frames):
 [2021.08.05-08.58.22:483][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.05-08.58.22:503][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
 [2021.08.05-08.58.22:543][285]LogPlayLevel: Display: Destroying online subsystem :Context_195
+[2021.08.05-09.01.00:013][125]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.05-09.01.00:018][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.01.00:018][125]PIE: New page: PIE session: 遊戲地圖 (2021年8月6日 上午1:01:00)
+[2021.08.05-09.01.00:039][125]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.01.00:053][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013759s)
+[2021.08.05-09.01.00:054][125]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.05-09.01.00:054][125]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2021.08.05-09.01.00:054][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.015014s)
+[2021.08.05-09.01.00:088][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.08.05-09.01.00:092][125]LogAudio: Display: Creating Audio Device:                 Id: 156, Scope: Unique, Realtime: True
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.01.00:092][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.01.00:092][125]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.01.00:092][125]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.01.00:096][125]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.01.00:096][125]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.01.00:113][125]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.05-09.01.00:114][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.01.00:114][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.01.00:114][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.01.00:116][125]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-09.01.00:116][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.01.00:116][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.01.00:130][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.01.00:130][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.01.00:130][125]LogInit: FAudioDevice initialized.
+[2021.08.05-09.01.00:130][125]LogAudio: Display: Audio Device (ID: 156) registered with world '遊戲地圖'.
+[2021.08.05-09.01.00:139][125]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.05-09.01.00:148][125]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.05-17.01.00
+[2021.08.05-09.01.00:149][125]LogWorld: Bringing up level for play took: 0.009625
+[2021.08.05-09.01.00:150][125]LogOnline: OSS: Creating online subsystem instance for: :Context_196
+[2021.08.05-09.01.00:154][125]PIE: Server logged in
+[2021.08.05-09.01.00:155][125]PIE: Play in editor total start time 0.139 seconds.
+[2021.08.05-09.01.36:584][483]LogCharacterMovement: BP_怪物7_17 is stuck and failed to move! Velocity: X=-5.61 Y=-16.12 Z=0.00 Location: X=6919.61 Y=2993.24 Z=120.09 Normal: X=0.70 Y=0.70 Z=-0.11 PenetrationDepth:7.192 Actor:BP_子彈_C_7 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.02.07:748][203]LogCharacterMovement: BP_怪物2_2 is stuck and failed to move! Velocity: X=-48.50 Y=16.48 Z=0.00 Location: X=12082.88 Y=-1062.61 Z=150.26 Normal: X=0.82 Y=0.34 Z=-0.47 PenetrationDepth:4.974 Actor:BP_子彈_C_29 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.02.23:170][ 51]LogCharacterMovement: BP_怪物9_23 is stuck and failed to move! Velocity: X=-50.18 Y=-10.20 Z=0.00 Location: X=14789.36 Y=5090.98 Z=120.54 Normal: X=0.56 Y=0.11 Z=-0.82 PenetrationDepth:60.811 Actor:BP_子彈_C_33 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.02.44:412][598]LogCharacterMovement: BP_怪物9_23 is stuck and failed to move! Velocity: X=-7.62 Y=-15.28 Z=0.00 Location: X=11001.09 Y=4351.94 Z=122.15 Normal: X=-0.99 Y=-0.11 Z=-0.06 PenetrationDepth:25.284 Actor:BP_子彈_C_42 Component:子彈模型 BoneName:None (1 other events since notify)
+[2021.08.05-09.02.46:004][779]LogCharacterMovement: BP_怪物9_23 is stuck and failed to move! Velocity: X=-7.67 Y=-15.26 Z=0.00 Location: X=11000.96 Y=4352.04 Z=122.15 Normal: X=-0.99 Y=-0.16 Z=0.00 PenetrationDepth:19.378 Actor:BP_子彈_C_44 Component:子彈模型 BoneName:None (7 other events since notify)
+[2021.08.05-09.02.48:530][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.02.48:530][ 77]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.02.48:530][ 77]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.02.48:531][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.02.48:544][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.02.48:580][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.02.48:608][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.02.48:609][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.02.48:610][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.02.48:629][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.05-09.02.48:675][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2021.08.05-09.02.49:857][206]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.05-09.02.49:862][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.02.49:862][206]PIE: New page: PIE session: 遊戲地圖 (2021年8月6日 上午1:02:49)
+[2021.08.05-09.02.49:900][206]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.02.49:913][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012799s)
+[2021.08.05-09.02.49:913][206]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.05-09.02.49:913][206]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.08.05-09.02.49:913][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.013977s)
+[2021.08.05-09.02.49:942][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.08.05-09.02.49:943][206]LogAudio: Display: Creating Audio Device:                 Id: 157, Scope: Unique, Realtime: True
+[2021.08.05-09.02.49:943][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.02.49:943][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.02.49:944][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.02.49:944][206]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.02.49:944][206]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.02.49:947][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.02.49:947][206]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.02.49:960][206]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.05-09.02.49:961][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.02.49:961][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.02.49:961][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.02.49:961][206]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-09.02.49:961][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.02.49:961][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.02.49:962][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.02.49:962][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.02.49:962][206]LogInit: FAudioDevice initialized.
+[2021.08.05-09.02.49:962][206]LogAudio: Display: Audio Device (ID: 157) registered with world '遊戲地圖'.
+[2021.08.05-09.02.49:980][206]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.05-09.02.49:989][206]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.05-17.02.49
+[2021.08.05-09.02.49:990][206]LogWorld: Bringing up level for play took: 0.009496
+[2021.08.05-09.02.49:990][206]LogOnline: OSS: Creating online subsystem instance for: :Context_197
+[2021.08.05-09.02.49:995][206]PIE: Server logged in
+[2021.08.05-09.02.49:995][206]PIE: Play in editor total start time 0.134 seconds.
+[2021.08.05-09.02.54:048][687]LogCharacterMovement: BP_怪物_2 is stuck and failed to move! Velocity: X=-13.79 Y=-10.06 Z=0.00 Location: X=1104.24 Y=806.15 Z=120.40 Normal: X=0.27 Y=0.38 Z=-0.88 PenetrationDepth:4.231 Actor:BP_子彈_C_0 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.03.33:753][436]LogCharacterMovement: BP_玩家控制_C_0 is stuck and failed to move! Velocity: X=-143.79 Y=-124.10 Z=0.00 Location: X=2022.41 Y=2165.42 Z=279.52 Normal: X=-0.40 Y=0.77 Z=-0.49 PenetrationDepth:4.534 Actor:BP_怪物_2 Component:CharacterMesh0 BoneName:RightForeArm (0 other events since notify)
+[2021.08.05-09.03.35:602][657]LogCharacterMovement: BP_怪物_2 is stuck and failed to move! Velocity: X=-39.40 Y=381.62 Z=0.00 Location: X=2071.32 Y=2057.88 Z=303.84 Normal: X=0.07 Y=-0.94 Z=-0.34 PenetrationDepth:26.793 Actor:BP_子彈_C_58 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.03.49:410][305]LogCharacterMovement: BP_怪物7_17 is stuck and failed to move! Velocity: X=-3.30 Y=-16.77 Z=0.00 Location: X=6471.65 Y=2672.95 Z=120.22 Normal: X=-0.56 Y=0.80 Z=-0.22 PenetrationDepth:16.395 Actor:BP_子彈_C_62 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.04.45:561][ 31]LogCharacterMovement: BP_怪物3_5 is stuck and failed to move! Velocity: X=-46.65 Y=-40.69 Z=0.00 Location: X=12252.96 Y=2176.35 Z=120.40 Normal: X=-0.01 Y=0.54 Z=-0.84 PenetrationDepth:8.752 Actor:BP_子彈_C_70 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.04.52:224][823]LogCharacterMovement: BP_怪物3_5 is stuck and failed to move! Velocity: X=-498.39 Y=40.14 Z=0.00 Location: X=11338.14 Y=2266.62 Z=120.26 Normal: X=0.55 Y=-0.57 Z=-0.60 PenetrationDepth:28.513 Actor:BP_子彈_C_78 Component:子彈模型 BoneName:None (1 other events since notify)
+[2021.08.05-09.05.08:903][818]LogCharacterMovement: BP_怪物3_5 is stuck and failed to move! Velocity: X=-261.29 Y=191.77 Z=0.00 Location: X=6470.73 Y=1772.54 Z=120.50 Normal: X=0.19 Y=0.16 Z=-0.97 PenetrationDepth:55.706 Actor:BP_子彈_C_80 Component:子彈模型 BoneName:None (2 other events since notify)
+[2021.08.05-09.05.12:510][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.05.12:510][246]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.05.12:510][246]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.05.12:512][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.05.12:522][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.05.12:558][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.05.12:586][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.05.12:587][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.05.12:588][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.05.12:608][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.08.05-09.05.12:651][247]LogPlayLevel: Display: Destroying online subsystem :Context_197
+[2021.08.05-09.06.44:517][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AsianCastle_Tower)
+[2021.08.05-09.06.57:612][546]LogEditorViewport: Clicking on Actor (LMB): BP_子彈匣_C (BP_子彈匣)
+[2021.08.05-09.08.23:857][578]BlueprintLog: New page: Compile BP_怪物
+[2021.08.05-09.08.23:946][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.08.05-09.08.24:530][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.05-09.08.24:570][629]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_怪物D054E944459D35BF5F31BD9E0BA9F643.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_怪物.uasset'
+[2021.08.05-09.08.24:586][629]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.05-09.08.24:586][629]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.05-09.08.26:557][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.05-09.08.26:562][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.08.26:562][861]PIE: New page: PIE session: 遊戲地圖 (2021年8月6日 上午1:08:26)
+[2021.08.05-09.08.26:562][861]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.08.26:575][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013195s)
+[2021.08.05-09.08.26:576][861]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.05-09.08.26:576][861]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2021.08.05-09.08.26:576][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.014344s)
+[2021.08.05-09.08.26:606][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.08.05-09.08.26:607][861]LogAudio: Display: Creating Audio Device:                 Id: 158, Scope: Unique, Realtime: True
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.08.26:607][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.08.26:607][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.08.26:607][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.08.26:608][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.08.26:611][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.08.26:611][861]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.08.26:627][861]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.05-09.08.26:627][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.08.26:627][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.08.26:627][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.08.26:628][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-09.08.26:628][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.08.26:628][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.08.26:640][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.08.26:640][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.08.26:640][861]LogInit: FAudioDevice initialized.
+[2021.08.05-09.08.26:640][861]LogAudio: Display: Audio Device (ID: 158) registered with world '遊戲地圖'.
+[2021.08.05-09.08.26:694][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.08.26:694][861]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.05-09.08.26:703][861]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.05-17.08.26
+[2021.08.05-09.08.26:705][861]LogWorld: Bringing up level for play took: 0.009968
+[2021.08.05-09.08.26:705][861]LogOnline: OSS: Creating online subsystem instance for: :Context_198
+[2021.08.05-09.08.26:713][861]PIE: Server logged in
+[2021.08.05-09.08.26:714][861]PIE: Play in editor total start time 0.153 seconds.
+[2021.08.05-09.09.02:021][ 85]LogCharacterMovement: BP_怪物7_17 is stuck and failed to move! Velocity: X=-307.63 Y=-394.16 Z=0.00 Location: X=6876.79 Y=2523.63 Z=120.48 Normal: X=0.36 Y=0.80 Z=-0.48 PenetrationDepth:16.208 Actor:BP_子彈_C_10 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.09.22:808][567]LogCharacterMovement: BP_怪物2_2 is stuck and failed to move! Velocity: X=-15.64 Y=32.21 Z=0.00 Location: X=11659.81 Y=-1415.38 Z=150.10 Normal: X=0.83 Y=-0.47 Z=-0.31 PenetrationDepth:54.024 Actor:BP_子彈_C_25 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.09.42:696][951]LogCharacterMovement: BP_怪物4_8 is stuck and failed to move! Velocity: X=-7.70 Y=33.25 Z=0.00 Location: X=11883.18 Y=-5739.50 Z=300.12 Normal: X=0.35 Y=-0.87 Z=-0.33 PenetrationDepth:57.253 Actor:BP_子彈_C_31 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.10.01:188][158]LogCharacterMovement: BP_怪物2_2 is stuck and failed to move! Velocity: X=-79.70 Y=493.61 Z=0.00 Location: X=11266.20 Y=-762.42 Z=132.48 Normal: X=-0.95 Y=-0.30 Z=-0.07 PenetrationDepth:9.417 Actor:BP_子彈_C_47 Component:子彈模型 BoneName:None (2 other events since notify)
+[2021.08.05-09.11.35:598][453]LogCharacterMovement: BP_玩家控制_C_0 is stuck and failed to move! Velocity: X=-37.54 Y=-389.28 Z=0.00 Location: X=12805.42 Y=4151.68 Z=96.75 Normal: X=0.14 Y=0.39 Z=-0.91 PenetrationDepth:22.997 Actor:BP_怪物9_23 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2021.08.05-09.12.07:490][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.12.07:490][529]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.12.07:491][529]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.05-09.12.07:496][529]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.12.07:497][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.12.07:523][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.12.07:534][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.12.07:563][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-09.12.07:563][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.12.07:564][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.12.07:584][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.08.05-09.12.07:788][530]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2021.08.05-09.12.09:120][534]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.05-09.12.09:125][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.12.09:125][534]PIE: New page: PIE session: 遊戲地圖 (2021年8月6日 上午1:12:09)
+[2021.08.05-09.12.09:125][534]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.12.09:138][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013099s)
+[2021.08.05-09.12.09:139][534]LogAIModule: Creating AISystem for world 遊戲地圖
+[2021.08.05-09.12.09:140][534]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2021.08.05-09.12.09:140][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲地圖.遊戲地圖 to /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 (0.014301s)
+[2021.08.05-09.12.09:168][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.08.05-09.12.09:168][534]LogAudio: Display: Creating Audio Device:                 Id: 159, Scope: Unique, Realtime: True
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.12.09:168][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.12.09:168][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.12.09:169][534]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.12.09:169][534]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.12.09:171][534]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.12.09:172][534]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-09.12.09:187][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.12.09:187][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.12.09:200][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.12.09:200][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.12.09:200][534]LogInit: FAudioDevice initialized.
+[2021.08.05-09.12.09:200][534]LogAudio: Display: Audio Device (ID: 159) registered with world '遊戲地圖'.
+[2021.08.05-09.12.09:259][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.12.09:259][534]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.05-09.12.09:268][534]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲地圖.遊戲地圖 up for play (max tick rate 0) at 2021.08.05-17.12.09
+[2021.08.05-09.12.09:269][534]LogWorld: Bringing up level for play took: 0.009231
+[2021.08.05-09.12.09:269][534]LogOnline: OSS: Creating online subsystem instance for: :Context_199
+[2021.08.05-09.12.09:275][534]PIE: Server logged in
+[2021.08.05-09.12.09:277][534]PIE: Play in editor total start time 0.153 seconds.
+[2021.08.05-09.12.13:699][997]LogCharacterMovement: BP_怪物_2 is stuck and failed to move! Velocity: X=-15.28 Y=-10.68 Z=0.00 Location: X=1284.84 Y=897.86 Z=120.82 Normal: X=0.56 Y=0.22 Z=-0.80 PenetrationDepth:18.941 Actor:BP_子彈_C_0 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.13.27:934][810]LogCharacterMovement: BP_怪物6_14 is stuck and failed to move! Velocity: X=-59.32 Y=69.11 Z=0.00 Location: X=13420.20 Y=-2293.36 Z=120.05 Normal: X=0.53 Y=-0.06 Z=-0.85 PenetrationDepth:53.733 Actor:BP_子彈_C_28 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.14.19:594][257]LogCharacterMovement: BP_怪物4_8 is stuck and failed to move! Velocity: X=4.34 Y=39.32 Z=0.00 Location: X=11441.29 Y=-5149.71 Z=300.39 Normal: X=0.01 Y=-0.93 Z=-0.38 PenetrationDepth:37.875 Actor:BP_子彈_C_33 Component:子彈模型 BoneName:None (0 other events since notify)
+[2021.08.05-09.15.44:290][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.15.44:290][290]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲地圖
+[2021.08.05-09.15.44:291][290]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.05-09.15.44:299][290]LogWorld: UWorld::CleanupWorld for 遊戲地圖, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.15.44:300][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.15.44:326][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.15.44:336][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.15.44:364][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.15.44:365][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.15.44:385][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.05-09.15.44:434][291]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2021.08.05-09.15.48:971][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.08.05-09.15.50:231][741]LogSlate: Window 'Save Content' being destroyed
+[2021.08.05-09.15.50:259][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲地圖" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.05-09.15.50:285][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.05-09.15.50:321][741]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/遊戲地圖8735055A4D26129CE2831CB04BECE75E.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/地圖/遊戲地圖.umap'
+[2021.08.05-09.15.50:331][741]LogFileHelpers: Saving map '遊戲地圖' took 0.073
+[2021.08.05-09.15.50:344][741]AssetCheck: New page: Asset Save: 遊戲地圖
+[2021.08.05-09.15.50:344][741]LogContentValidation: Display: Validating World /Game/地圖/遊戲地圖.遊戲地圖
+[2021.08.05-09.16.22:162][817]LogContentBrowser: Deferred new asset file creation: BP_子彈匣1
+[2021.08.05-09.16.22:236][817]LogContentBrowser: Creating deferred item: BP_子彈匣1
+[2021.08.05-09.16.30:995][546]LogContentBrowser: Attempting asset rename: BP_子彈匣1 -> BP_血包
+[2021.08.05-09.16.31:045][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.08.05-09.16.31:122][546]LogContentBrowser: End creating deferred item BP_子彈匣1
+[2021.08.05-09.16.36:131][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_血包.BP_血包
+[2021.08.05-09.16.39:387][195]LogSlate: Window 'BP_血包' being destroyed
+[2021.08.05-09.17.21:889][639]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\作業\blood-pack\textures\CuteKit_Emissive.png)
+[2021.08.05-09.17.22:001][639]LogTexture: Display: Building textures: CuteKit_Emissive (AutoDXT, 1024X1024)
+[2021.08.05-09.17.23:895][639]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\作業\blood-pack\textures\CuteKit_Texture.png)
+[2021.08.05-09.17.23:914][639]LogTexture: Display: Building textures: CuteKit_Texture (AutoDXT, 1024X1024)
+[2021.08.05-09.17.24:201][639]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\作業\blood-pack\textures\CuteKit_Transparency.png)
+[2021.08.05-09.17.24:215][639]LogTexture: Display: Building textures: CuteKit_Transparency (AutoDXT, 1024X1024)
+[2021.08.05-09.17.39:605][719]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\作業\blood-pack\source\cutekit_nooutline.fbx)
+[2021.08.05-09.17.40:411][719]LogFbx: Loading FBX Scene from D:\軟體以外(課程等)\產業新尖兵-3D動畫遊戲訓練班\KID\作業\blood-pack\source\cutekit_nooutline.fbx
+[2021.08.05-09.17.40:436][719]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.17.41:821][719]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.05-09.17.41:967][719]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/Emily/Documents/Emily/3DArt/CuteKit/Texture/CuteKit_Texture.psd
+[2021.08.05-09.17.41:967][719]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/Emily/Documents/Emily/3DArt/CuteKit/Texture/CuteKit_Emissive.tga
+[2021.08.05-09.17.41:967][719]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/Emily/Documents/Emily/3DArt/CuteKit/Texture/CuteKit_Transparency.tga
+[2021.08.05-09.17.41:970][719]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.17.42:131][719]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.17.42:131][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.17.42:133][719]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/Emily/Documents/Emily/3DArt/CuteKit/Texture/CuteKit_Texture.psd
+[2021.08.05-09.17.42:135][719]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.17.42:191][719]LogFbx: Display: Triangulating static mesh Kit
+[2021.08.05-09.17.42:368][719]LogStaticMesh: Building static mesh cutekit_nooutline...
+[2021.08.05-09.17.42:640][719]LogStaticMesh: Built static mesh [0.27s] /Game/素材/血包/cutekit_nooutline.cutekit_nooutline
+[2021.08.05-09.17.42:766][719]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'CuteKit_Texture' was renamed 'CuteKit_Texture_ncl1_1' 
+[2021.08.05-09.17.42:766][719]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.05-09.17.46:816][129]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.17.46:821][129]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.17.47:699][209]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.08.05-09.17.48:794][300]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.17.49:050][316]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/素材/血包/cutekit_nooutline.cutekit_nooutline
+[2021.08.05-09.17.50:067][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.17.52:475][571]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.17.52:475][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.17.56:000][954]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/素材/血包/CuteKit_SpecialMat.CuteKit_SpecialMat
+[2021.08.05-09.17.56:031][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.17.56:472][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.17.56:479][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.17.56:497][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.17.56:498][954]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.17.56:502][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.05-09.17.56:995][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.17.57:061][999]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.17.57:299][ 27]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.17.57:563][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.17.57:780][ 70]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.17.57:838][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.17.58:285][125]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.17.58:302][127]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.17.58:623][161]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.17.58:626][161]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.17.58:626][161]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.05-09.17.58:626][161]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.05-09.17.58:626][161]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.05-09.17.58:626][161]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.17.59:042][206]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.17.59:219][225]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.17.59:223][225]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.17.59:297][230]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.17.59:722][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.17.59:722][268]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.18.00:051][301]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.18.00:210][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.18.00:569][346]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.18.00:630][352]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.18.01:181][395]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.18.01:549][427]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.05-09.18.01:549][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.05-09.18.01:549][427]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.05-09.18.01:549][427]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.18.06:698][963]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.06:704][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.18.06:872][963]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.18.06:872][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.18.06:877][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.18.06:889][963]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.06:895][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.18.06:907][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.18.06:910][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.18.06:921][963]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.06:927][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.18.06:938][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.18.06:941][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.18.06:945][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.18.07:727][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.18.07:727][963]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.18.07:727][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.18.07:727][963]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.18.07:765][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.18.07:884][974]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.18.08:218][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.05-09.18.08:276][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.08.05-09.18.08:815][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.05-09.18.08:823][ 78]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.18.09:170][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.18.09:171][117]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.05-09.18.09:171][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.05-09.18.09:171][117]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.05-09.18.09:171][117]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.18.09:186][119]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.18.09:594][161]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.18.09:612][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.18.09:948][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.18.09:964][202]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.18.10:355][245]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.18.10:388][249]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.18.10:743][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.18.10:759][288]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.18.11:146][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.18.13:018][540]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.13:027][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.18.13:027][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.18.13:027][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.18.13:505][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.18.13:579][600]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.18.13:848][630]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.18.14:065][656]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.18.14:405][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.18.14:415][697]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.18.14:897][753]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.18.14:930][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.18.15:245][793]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.18.15:257][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.18.15:274][796]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.18.15:670][840]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.18.18:561][181]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.18:571][181]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.18.18:571][181]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.18.18:573][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.18.19:035][232]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.18.19:093][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.18.19:377][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.18.19:585][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.18.19:895][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.18.19:919][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.18.20:425][388]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.18.20:433][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.18.20:788][429]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.18.20:788][429]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.18.20:802][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.18.21:217][476]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.18.28:244][290]LogMaterialEditor: Saving and Compiling material CuteKit_SpecialMat
+[2021.08.05-09.18.31:341][290]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.31:361][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.18.31:361][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.18.31:404][290]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.18.31:555][290]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2021.08.05-09.18.31:593][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.05-09.18.32:155][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.18.32:155][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.18.32:155][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.18.32:155][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.18.32:714][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.18.32:714][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.18.33:111][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.05-09.18.33:111][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.08.05-09.18.33:111][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.05-09.18.33:111][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.18.33:111][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.18.33:113][290]TextureStreamingBuild: Display: Compiling optional shaders took 1.535 seconds.
+[2021.08.05-09.18.33:232][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.08.05-09.18.34:405][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.18.35:218][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/血包/CuteKit_SpecialMat" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_SpecialMat.uasset" SILENT=true
+[2021.08.05-09.18.35:224][290]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/CuteKit_SpecialMat08AEF02C4640684CE9A5DBA2C772D5ED.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_SpecialMat.uasset'
+[2021.08.05-09.18.35:263][290]AssetCheck: New page: Asset Save: CuteKit_SpecialMat
+[2021.08.05-09.18.35:263][290]LogContentValidation: Display: Validating Material /Game/素材/血包/CuteKit_SpecialMat.CuteKit_SpecialMat
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: Texture samplers: 5/16
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.18.35:266][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.09:155][ 52]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/素材/血包/CuteKit_Albedo.CuteKit_Albedo
+[2021.08.05-09.19.09:156][ 52]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.09:207][ 52]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.09:213][ 52]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.09:225][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.05-09.19.09:229][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.09:229][ 52]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.10:510][187]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.19.10:690][208]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.19.10:833][225]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.19.11:150][260]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.19.11:336][282]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.19.11:466][297]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.19.11:544][305]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.11:825][335]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.05-09.19.11:907][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.19.12:125][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.19.12:268][386]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.19.12:527][414]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.19.12:606][422]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.19.13:098][462]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.19.13:118][464]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.19.13:487][494]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.19.13:662][510]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.19.14:033][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.14:082][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.19.14:644][593]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.14:963][619]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.05-09.19.14:963][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.05-09.19.14:963][619]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.05-09.19.14:963][619]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.19.18:474][999]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.18:479][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.19.18:486][999]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.08.05-09.19.18:486][999]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.08.05-09.19.18:490][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.19.18:500][999]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.18:505][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.19.18:513][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.19.18:516][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.19.18:526][999]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.18:531][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.19.18:545][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.19.18:548][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.05-09.19.18:551][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.19.18:921][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.19.18:988][ 41]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.19.19:463][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.19.19:463][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.19.19:811][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.19.19:956][147]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.19.20:289][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.05-09.19.20:341][191]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.08.05-09.19.20:988][264]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.05-09.19.21:037][270]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.19.21:335][303]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.08.05-09.19.21:336][303]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.05-09.19.21:336][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.05-09.19.21:336][303]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.05-09.19.21:336][303]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.19.21:384][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.08.05-09.19.21:518][324]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.21:530][324]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.05-09.19.21:712][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.19.21:762][342]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.19.22:062][376]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.19.22:161][388]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.19.22:508][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.19.22:541][430]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.19.22:856][462]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.08.05-09.19.22:947][473]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.08.05-09.19.23:254][507]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.08.05-09.19.23:278][510]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.05-09.19.23:755][558]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.08.05-09.19.23:803][564]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.08.05-09.19.24:103][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.24:297][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.24:647][662]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.19.24:647][662]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.19.25:150][717]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.19.25:192][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.25:502][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.19.25:514][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.25:554][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.19.25:643][773]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.25:653][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.05-09.19.26:110][822]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.08.05-09.19.26:136][825]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.08.05-09.19.26:474][862]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.08.05-09.19.26:682][886]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.08.05-09.19.26:921][914]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.08.05-09.19.27:014][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.27:436][971]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.27:607][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.19.27:785][ 11]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.19.28:108][ 49]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.19.28:235][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.19.28:442][ 88]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.19.28:456][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.28:580][104]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.19.28:869][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.45:265][ 19]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.45:284][ 20]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.45:284][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.45:790][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.19.45:856][ 80]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.19.46:127][112]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.19.46:346][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.46:653][174]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.46:676][177]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.19.47:354][257]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.19.47:771][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.47:893][320]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.47:936][320]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.47:949][320]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.47:972][321]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.08.05-09.19.47:972][321]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.19.48:580][390]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.19.48:834][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.19.48:875][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.19.49:113][451]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.49:273][468]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.08.05-09.19.49:305][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.08.05-09.19.49:809][528]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.08.05-09.19.50:045][556]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.08.05-09.19.50:088][561]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.08.05-09.19.50:415][598]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.50:423][598]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.50:430][598]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.50:495][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.50:529][609]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.50:992][662]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.19.51:042][668]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.19.51:339][702]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.19.51:527][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.51:873][762]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.19.51:881][763]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.19.52:208][798]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.52:569][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.52:585][841]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.53:040][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.19.53:099][893]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.19.53:408][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.19.53:630][952]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.53:954][990]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.53:969][992]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.19.54:067][  3]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.54:081][  3]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.54:088][  3]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.54:448][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.54:473][ 43]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.54:821][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.19.54:844][ 81]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.55:017][ 99]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.19.55:017][ 99]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.19.55:017][ 99]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.19.55:017][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.19.55:017][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.55:777][190]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.55:781][190]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.55:781][190]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.56:122][227]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.19.56:205][233]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.56:316][247]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.19.56:316][247]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.19.56:316][247]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.19.56:316][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.19.56:316][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.57:158][340]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.57:175][340]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.57:181][340]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.57:220][341]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.57:220][341]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.57:673][395]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.19.57:673][395]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.19.57:781][408]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.19.57:822][413]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.19.57:923][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.19.57:963][430]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.19.58:073][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.19.58:209][459]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.19.58:988][549]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.19.59:003][550]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.19.59:004][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.19.59:304][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.19.59:351][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.19.59:418][589]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.19.59:512][600]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.19.59:578][608]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.19.59:678][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.19.59:735][625]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.19.59:880][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.00:123][671]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.00:133][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.20.00:133][671]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.00:135][671]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.00:140][671]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.00:593][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.20.00:676][730]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.08.05-09.20.01:105][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.20.01:146][777]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.20.01:310][796]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.20.01:310][796]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.20.01:310][796]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.20.01:310][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.20.01:310][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.04:131][133]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.04:146][134]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.20.04:146][134]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.04:509][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.20.04:555][177]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.20.04:715][189]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.20.04:715][189]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.20.04:715][189]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.20.04:715][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.05-09.20.04:715][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.05:257][252]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.05:257][252]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.05:257][252]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2021.08.05-09.20.05:264][252]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.05:265][252]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.05:265][252]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2021.08.05-09.20.05:267][252]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.05:267][252]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.05:267][252]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2021.08.05-09.20.05:271][252]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2021.08.05-09.20.07:190][478]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.07:190][478]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.07:190][478]LogMaterial: Display: 	Volume materials must use an Additive blend mode.
+[2021.08.05-09.20.08:052][572]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.08:061][572]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.08:061][572]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.20.08:061][572]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.08:066][572]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.08:504][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.08.05-09.20.08:571][629]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.20.08:930][666]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.20.08:930][666]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.20.08:930][666]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.20.08:930][666]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.20.08:930][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.09:356][717]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.09:360][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.09:360][717]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.20.09:799][760]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2021.08.05-09.20.09:799][760]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.20.09:799][760]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.05-09.20.09:799][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.20.09:799][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.10:469][840]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.10:470][840]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.10:470][840]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.10:477][840]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.10:477][840]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.10:477][840]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.10:479][840]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.10:480][840]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.10:480][840]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.10:485][840]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.13:343][174]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.13:343][174]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.13:343][174]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.14:259][279]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.14:272][279]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.14:278][279]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.14:308][280]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.14:308][280]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.14:758][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.20.14:833][341]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.20.15:089][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.20.15:315][398]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.20.15:618][432]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.15:652][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.16:129][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.20.16:416][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.20.17:651][671]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.17:668][672]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.17:668][672]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.18:126][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.20.18:191][727]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.20.18:571][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.20.18:719][788]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.18:720][788]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.18:720][788]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.18:728][788]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.18:728][788]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.18:728][788]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.18:731][788]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.18:731][788]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.18:731][788]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.18:736][788]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.21:792][146]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.21:792][146]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.21:792][146]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.26:650][639]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.26:651][639]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.26:651][639]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.26:654][639]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.26:654][639]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.26:654][639]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.26:656][639]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.26:656][639]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.26:656][639]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.28:269][828]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.28:270][828]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.28:270][828]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.29:559][981]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.29:559][981]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.29:559][981]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.29:566][981]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.29:567][981]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.29:567][981]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.29:570][981]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.29:570][981]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.29:570][981]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.30:574][ 98]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.30:575][ 98]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.30:575][ 98]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.31:725][231]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.31:726][231]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.31:726][231]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.31:733][231]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.31:733][231]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.31:733][231]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.31:735][231]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.31:736][231]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.31:736][231]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.37:278][872]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.37:278][872]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.37:278][872]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.39:452][124]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.39:453][124]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.39:453][124]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.39:455][124]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.39:455][124]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.39:455][124]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.39:457][124]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.39:457][124]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.39:457][124]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2021.08.05-09.20.41:742][395]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.41:754][395]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.41:760][395]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.41:787][396]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.41:787][396]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.42:307][456]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.20.42:432][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.20.42:660][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.20.42:928][527]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.20.43:171][556]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.43:253][566]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.43:524][596]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.43:532][596]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.43:540][596]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.43:686][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.20.43:727][617]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.20.44:183][667]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.20.44:208][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.20.44:560][710]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.20.44:795][738]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.08.05-09.20.45:260][793]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.45:276][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.45:382][807]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.45:398][807]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.45:407][807]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.45:819][850]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.45:827][851]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.46:292][905]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.20.46:351][912]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.20.46:650][945]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.20.46:844][967]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.20.47:175][  5]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.20.47:184][  6]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.20.47:699][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.08.05-09.20.47:784][ 74]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.47:789][ 74]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.05-09.20.48:017][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.08.05-09.20.48:301][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.20.48:472][149]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.20.48:652][170]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.20.48:919][201]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.48:927][201]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.48:934][201]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.48:971][204]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.49:147][225]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.49:479][262]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.20.49:599][276]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.08.05-09.20.49:764][293]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.49:803][296]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.20.50:262][350]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.20.50:542][382]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.08.05-09.20.50:554][383]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.50:568][383]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.50:580][383]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.50:758][402]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.08.05-09.20.50:866][415]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.08.05-09.20.51:258][456]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.08.05-09.20.51:550][490]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.20.51:574][493]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.20.51:989][541]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.20.52:013][544]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.20.52:177][563]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.05-09.20.52:222][568]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.52:429][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.08.05-09.20.52:682][620]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.08.05-09.20.52:901][646]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.08.05-09.20.53:183][680]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.20.53:370][701]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.53:384][701]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.08.05-09.20.53:386][701]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.53:400][701]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.53:601][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.08.05-09.20.53:848][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.08.05-09.20.54:065][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.08.05-09.20.54:334][809]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.20.54:521][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.20.54:604][838]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.54:761][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.08.05-09.20.54:921][873]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.08.05-09.20.55:229][909]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.08.05-09.20.55:529][944]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.55:530][944]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.55:530][944]LogMaterial: Display: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2021.08.05-09.20.55:533][944]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.55:533][944]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.55:533][944]LogMaterial: Display: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2021.08.05-09.20.55:536][944]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.55:537][944]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.55:537][944]LogMaterial: Display: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2021.08.05-09.20.55:542][944]MaterialEditorStats: Error: [SM5] Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2021.08.05-09.20.56:302][ 32]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.56:302][ 32]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.56:302][ 32]LogMaterial: Display: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2021.08.05-09.20.57:166][135]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.57:179][135]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.57:190][135]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.57:214][136]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.08.05-09.20.57:214][136]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.20.57:708][190]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.20.57:917][215]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.20.57:976][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.20.58:369][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.20.58:412][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.20.58:414][272]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.58:584][290]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.08.05-09.20.58:805][316]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.20.59:049][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.20.59:315][377]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.08.05-09.20.59:488][397]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.08.05-09.20.59:604][410]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.59:604][410]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.59:604][410]LogMaterial: Display: 	Alpha Holdout blend mode must use unlit shading model.
+[2021.08.05-09.20.59:609][410]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.59:610][410]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.59:610][410]LogMaterial: Display: 	Alpha Holdout blend mode must use unlit shading model.
+[2021.08.05-09.20.59:612][410]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.20.59:613][410]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.20.59:613][410]LogMaterial: Display: 	Alpha Holdout blend mode must use unlit shading model.
+[2021.08.05-09.20.59:617][410]MaterialEditorStats: Error: [SM5] Alpha Holdout blend mode must use unlit shading model.
+[2021.08.05-09.21.00:960][568]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.00:961][568]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.21.00:961][568]LogMaterial: Display: 	Alpha Holdout blend mode must use unlit shading model.
+[2021.08.05-09.21.01:884][678]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.01:891][678]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.01:899][678]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.01:918][679]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.21.01:918][679]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.21.02:358][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.05-09.21.02:435][738]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.08.05-09.21.02:704][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.08.05-09.21.02:917][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.08.05-09.21.03:217][828]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.08.05-09.21.03:250][832]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.21.03:747][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.21.04:036][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.21.39:014][ 40]LogMaterialEditor: Saving and Compiling material CuteKit_SpecialMat
+[2021.08.05-09.21.39:488][ 40]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.21.39:527][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.21.39:527][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.21.39:535][ 40]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.21.39:593][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.08.05-09.21.39:602][ 40]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.05-09.21.40:164][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.21.40:164][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.21.40:723][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.21.40:723][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.21.40:723][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.21.40:723][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.21.41:282][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.08.05-09.21.41:282][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.08.05-09.21.41:282][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.08.05-09.21.41:282][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.08.05-09.21.41:305][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.21.41:309][ 40]TextureStreamingBuild: Display: Compiling optional shaders took 1.711 seconds.
+[2021.08.05-09.21.41:354][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.05-09.21.42:514][ 40]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.21.43:275][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/血包/CuteKit_SpecialMat" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_SpecialMat.uasset" SILENT=true
+[2021.08.05-09.21.43:281][ 40]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/CuteKit_SpecialMatFE382ACD476264F93FE62B8E0FBD55C9.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_SpecialMat.uasset'
+[2021.08.05-09.21.43:322][ 40]AssetCheck: New page: Asset Save: CuteKit_SpecialMat
+[2021.08.05-09.21.43:322][ 40]LogContentValidation: Display: Validating Material /Game/素材/血包/CuteKit_SpecialMat.CuteKit_SpecialMat
+[2021.08.05-09.21.44:961][222]LogMaterialEditor: Saving and Compiling material CuteKit_Albedo
+[2021.08.05-09.21.45:454][222]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.45:495][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.08.05-09.21.45:495][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.08.05-09.21.45:500][222]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.21.45:556][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.08.05-09.21.45:562][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.05-09.21.46:125][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.08.05-09.21.46:125][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.08.05-09.21.46:125][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.08.05-09.21.46:683][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.08.05-09.21.46:683][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.08.05-09.21.46:683][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.08.05-09.21.47:242][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.08.05-09.21.47:242][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.08.05-09.21.47:242][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.08.05-09.21.47:242][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.08.05-09.21.47:242][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.08.05-09.21.47:245][222]TextureStreamingBuild: Display: Compiling optional shaders took 1.687 seconds.
+[2021.08.05-09.21.47:292][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.05-09.21.48:467][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.08.05-09.21.49:257][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/血包/CuteKit_Albedo" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_Albedo.uasset" SILENT=true
+[2021.08.05-09.21.49:262][222]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/CuteKit_Albedo1C919E1F46CE1CCF0839848D71FF8802.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/素材/血包/CuteKit_Albedo.uasset'
+[2021.08.05-09.21.49:305][222]AssetCheck: New page: Asset Save: CuteKit_Albedo
+[2021.08.05-09.21.49:305][222]LogContentValidation: Display: Validating Material /Game/素材/血包/CuteKit_Albedo.CuteKit_Albedo
+[2021.08.05-09.21.49:305][222]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.08.05-09.21.49:305][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.08.05-09.21.49:305][222]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.05-09.21.49:305][222]MaterialEditorStats: Texture samplers: 5/16
+[2021.08.05-09.21.49:305][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.05-09.21.49:306][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-09.21.51:432][457]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/素材/血包/cutekit_nooutline.cutekit_nooutline
+[2021.08.05-09.23.09:705][249]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Breathing Idle.fbx)
+[2021.08.05-09.23.09:713][249]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Breathing Idle.fbx
+[2021.08.05-09.23.09:817][249]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.23.13:630][249]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.05-09.23.13:683][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.08.05-09.23.13:687][249]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.05-09.23.14:156][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.05-09.23.14:157][249]FBXImport: Import was canceled. 
+[2021.08.05-09.23.14:202][249]LogAssetTools: The import task was canceled.
+[2021.08.05-09.23.15:809][418]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.23.15:823][418]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.24.24:280][275]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.24.24:280][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.24.24:983][338]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.24.24:983][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.24.26:879][550]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.24.26:879][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.24.30:785][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.08.05-09.24.31:802][954]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.05-09.24.31:888][954]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/素材/血包/CuteKit_Transparency.CuteKit_Transparency
+	Asset Name: /Game/素材/血包/CuteKit_Albedo.CuteKit_Albedo
+	Asset Name: /Game/素材/血包/CuteKit_Emissive.CuteKit_Emissive
+	Asset Name: /Game/素材/血包/cutekit_nooutline.cutekit_nooutline
+	Asset Name: /Game/素材/血包/CuteKit_SpecialMat.CuteKit_SpecialMat
+	Asset Name: /Game/素材/血包/CuteKit_Texture.CuteKit_Texture
+[2021.08.05-09.24.32:186][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:187][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_Albedo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:187][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:188][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:188][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_Albedo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:188][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:189][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:190][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_Albedo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:190][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:190][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:191][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:191][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:192][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:192][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:192][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:193][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:193][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:193][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:194][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:194][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:194][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:195][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:195][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:195][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:195][954]LogMaterial: Display: Missing cached shader map for material CuteKit_Albedo, compiling. 
+[2021.08.05-09.24.32:196][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_Albedo (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:196][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:196][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:197][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:197][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:197][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:198][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:198][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:198][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:199][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:199][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:199][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:200][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:200][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:200][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:201][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:201][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:201][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:202][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.CuteKit_SpecialMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:202][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:203][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:203][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_SpecialMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:203][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:204][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:204][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_SpecialMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:204][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:205][954]LogMaterial: Display: Missing cached shader map for material CuteKit_SpecialMat, compiling. 
+[2021.08.05-09.24.32:206][954]LogMaterial: Warning: [AssetLog] D:\mingmoon\Project\Unreal\-HW_01_Scene\HW_01_Scene\Content\素材\血包\CuteKit_SpecialMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.05-09.24.32:206][954]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.05-09.24.32:478][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.08.05-09.24.32:518][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.08.05-09.24.32:556][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.05-09.24.32:592][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.05-09.25.49:492][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.08.05-09.25.49:494][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲地圖' took 0.041
+[2021.08.05-09.25.49:494][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_血包] ([1] browsable assets)...
+[2021.08.05-09.25.49:494][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_血包]
+[2021.08.05-09.25.49:494][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_血包" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_血包_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.08.05-09.25.49:498][311]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_血包_Auto676CDBBFF40E782C465A2A1B80785B5BF.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/Autosaves/Game/BP/BP_血包_Auto6.uasset'
+[2021.08.05-09.25.49:498][311]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.08.05-09.31.27:421][572]LogFactory: Error: Can't find file 'IFD_FirstAidKit_HR_Geometry.obj' for import
+[2021.08.05-09.31.30:065][572]LogSlate: Window 'Message' being destroyed
+[2021.08.05-09.31.30:070][572]Message dialog closed, result: Ok, title: Message, text: Failed to import 'IFD_FirstAidKit_HR_Geometry.obj'. Failed to create asset '/Game/素材/血包/IFD_FirstAidKit_HR_Geometry'.
+Please see Output Log for details.
+[2021.08.05-09.31.30:070][572]LogAssetTools: Warning: Failed to import 'IFD_FirstAidKit_HR_Geometry.obj'. Failed to create asset '/Game/素材/血包/IFD_FirstAidKit_HR_Geometry'.
+Please see Output Log for details.
+[2021.08.05-09.31.39:922][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Breathing Idle.fbx)
+[2021.08.05-09.31.39:930][787]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Breathing Idle.fbx
+[2021.08.05-09.31.39:954][787]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.31.45:602][787]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.05-09.31.45:661][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.08.05-09.31.45:666][787]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.05-09.31.46:007][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.05-09.31.46:007][787]FBXImport: Import was canceled. 
+[2021.08.05-09.31.46:057][787]LogAssetTools: The import task was canceled.
+[2021.08.05-09.31.47:324][937]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.31.47:328][937]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.31.51:073][ 64]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Mutant Breathing Idle.fbx)
+[2021.08.05-09.31.51:082][ 64]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Mutant Breathing Idle.fbx
+[2021.08.05-09.31.51:101][ 64]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.31.58:154][ 64]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.05-09.31.58:212][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.08.05-09.31.58:214][ 64]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.05-09.31.58:539][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.05-09.31.58:539][ 64]FBXImport: Import was canceled. 
+[2021.08.05-09.31.58:591][ 64]LogAssetTools: The import task was canceled.
+[2021.08.05-09.31.59:925][220]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-09.31.59:929][220]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-14.45.02:641][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.05-14.45.03:816][180]LogSlate: Window 'Save Content' being destroyed
+[2021.08.05-14.45.03:839][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_血包" FILE="../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_血包.uasset" SILENT=true
+[2021.08.05-14.45.03:843][180]LogSavePackage: Moving '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Saved/BP_血包8142FE8F4AA90B2BBC6BE69DAF3006CD.tmp' to '../../../../../../mingmoon/Project/Unreal/-HW_01_Scene/HW_01_Scene/Content/BP/BP_血包.uasset'
+[2021.08.05-14.45.03:859][180]AssetCheck: New page: Asset Save: BP_血包
+[2021.08.05-14.45.03:860][180]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_血包.BP_血包
+[2021.08.05-14.45.05:539][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.08.05-14.45.05:607][375]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.05:607][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.05:782][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.05-14.45.05:782][375]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.05:782][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.06:058][375]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.06:058][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.06:093][375]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.06:094][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.06:108][375]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.06:108][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.06:231][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.05-14.45.06:231][375]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.06:231][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-14.45.06:404][375]LogSlate: Window 'HW_01_Scene - Unreal Editor' being destroyed
+[2021.08.05-14.45.07:019][376]Cmd: QUIT_EDITOR
+[2021.08.05-14.45.07:019][376]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.08.05-14.45.07:210][376]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.05-14.45.07:659][376]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.08.05-14.45.07:659][376]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.08.05-14.45.07:659][376]LogAudio: Display: Audio Device unregistered from world '遊戲地圖'.
+[2021.08.05-14.45.07:659][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-14.45.07:660][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-14.45.07:697][376]LogAudio: Display: Audio Device Manager Shutdown
+[2021.08.05-14.45.07:698][376]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟注音).
+[2021.08.05-14.45.07:723][376]LogExit: Preparing to exit.
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEA300] Windows
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEA400] Default__DeviceProfile
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92B00] WindowsNoEditor
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9300] WindowsServer
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93A00] WindowsClient
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE8300] IOS
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90E00] iPadAir
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE8D00] iPadAir2
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D42100] IPadPro
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D42200] iPadAir3
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91600] iPadAir4
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D43900] iPadMini2
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90500] iPadMini3
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D41700] iPadMini4
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91400] iPadMini5
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61A00] iPhone6
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61B00] iPodTouch6
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEB100] iPhone7
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9D00] iPodTouch7
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62A00] iPhone5S
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEA700] iPhone6Plus
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61D00] iPhone6S
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE8C00] iPhone6SPlus
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63E00] iPhone7Plus
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9C00] iPhoneSE
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63200] iPhone8
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEB400] iPhone8Plus
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60200] iPhoneX
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEB700] iPhoneXS
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61200] iPhoneXSMax
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90800] iPhoneXR
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60F00] iPhone11
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91100] iPhone11Pro
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62000] iPhone11ProMax
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93700] iPhoneSE2
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60100] iPhone12Mini
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91800] iPhone12
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60400] iPhone12Pro
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93400] iPhone12ProMax
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63A00] iPadPro105
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92300] iPadPro129
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61F00] iPadPro97
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92D00] iPadPro2_129
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62800] iPad5
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90D00] iPad6
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60600] iPad7
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91200] iPad8
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62E00] iPadPro11
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93D00] iPadPro2_11
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63800] iPadPro3_129
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92E00] iPadPro4_129
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60800] AppleTV
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90100] AppleTV4K
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63100] TVOS
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93300] Mac
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63300] MacClient
+[2021.08.05-14.45.08:415][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93800] MacNoEditor
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D60300] MacServer
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90A00] Linux
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61800] LinuxAArch64
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92000] LinuxNoEditor
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61300] LinuxAArch64NoEditor
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93C00] LinuxClient
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63400] LinuxAArch64Client
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90900] LinuxServer
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62600] LinuxAArch64Server
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92C00] Android
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62900] Android_Low
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92600] Android_Mid
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63F00] Android_High
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92400] Android_Default
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D63D00] Android_Adreno4xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D92F00] Android_Adreno5xx_Low
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62C00] Android_Adreno5xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D93200] Android_Adreno6xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D62200] Android_Adreno6xx_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D91B00] Android_Mali_T6xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61400] Android_Mali_T7xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D90F00] Android_Mali_T8xx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D61500] Android_Mali_G71
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D42A00] Android_Mali_G72
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE8600] Android_Mali_G72_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D41C00] Android_Mali_G76
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEB500] Android_Mali_G76_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D40800] Android_Mali_G77
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEBC00] Android_Mali_G77_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D41D00] Android_Vulkan_SM5
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DEB300] Android_PowerVR_G6xxx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D42700] Android_PowerVR_GT7xxx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9700] Android_PowerVR_GE8xxx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D40400] Android_PowerVR_GM9xxx
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9E00] Android_PowerVR_GM9xxx_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D40C00] Android_TegraK1
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9900] Android_Unknown_Vulkan
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D43F00] Lumin
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64DE9A00] Lumin_Desktop
+[2021.08.05-14.45.08:416][376]LogDeviceProfile: Device profile begin destroy: [0000023E64D42600] HoloLens
+[2021.08.05-14.45.08:806][376]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:807][376]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:808][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:809][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:809][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:809][376]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:810][376]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:810][376]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:811][376]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:811][376]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:812][376]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:812][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.08.05-14.45.08:813][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.09:073][376]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.05-14.45.09:284][376]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-14.45.09:286][376]LogExit: Editor shut down
+[2021.08.05-14.45.09:289][376]LogExit: Transaction tracking system shut down
+[2021.08.05-14.45.11:901][376]LogExit: Object subsystem successfully closed.
+[2021.08.05-14.45.12:359][376]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (836)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module SequencerWidgets (834)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (832)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module AnimationEditor (830)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module PinnedCommandList (828)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module SkeletonEditor (826)
+[2021.08.05-14.45.13:872][376]LogModuleManager: Shutting down and abandoning module BlueprintGraph (824)
+[2021.08.05-14.45.13:878][376]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2021.08.05-14.45.13:878][376]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2021.08.05-14.45.13:888][376]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (818)
+[2021.08.05-14.45.13:888][376]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (816)
+[2021.08.05-14.45.13:888][376]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2021.08.05-14.45.13:888][376]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2021.08.05-14.45.13:923][376]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2021.08.05-14.45.13:923][376]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2021.08.05-14.45.13:923][376]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2021.08.05-14.45.13:941][376]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2021.08.05-14.45.13:942][376]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2021.08.05-14.45.13:955][376]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2021.08.05-14.45.13:955][376]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2021.08.05-14.45.13:955][376]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2021.08.05-14.45.13:955][376]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (794)
+[2021.08.05-14.45.13:955][376]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (792)
+[2021.08.05-14.45.13:960][376]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (790)
+[2021.08.05-14.45.13:986][376]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (788)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (786)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (784)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (782)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module GooglePADEditor (780)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (778)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (776)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (774)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (772)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (770)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module WebMMedia (768)
+[2021.08.05-14.45.13:993][376]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (766)
+[2021.08.05-14.45.13:995][376]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (764)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module SequenceRecorder (763)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (760)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (758)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (756)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (754)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (752)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (750)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (748)
+[2021.08.05-14.45.14:027][376]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2021.08.05-14.45.14:047][376]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2021.08.05-14.45.14:047][376]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2021.08.05-14.45.14:047][376]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2021.08.05-14.45.14:056][376]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2021.08.05-14.45.14:101][376]LogModuleManager: Shutting down and abandoning module SmartSnapping (736)
+[2021.08.05-14.45.14:101][376]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (734)
+[2021.08.05-14.45.14:116][376]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2021.08.05-14.45.14:116][376]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2021.08.05-14.45.14:138][376]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2021.08.05-14.45.14:138][376]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2021.08.05-14.45.14:139][376]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2021.08.05-14.45.14:157][376]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2021.08.05-14.45.14:179][376]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2021.08.05-14.45.14:179][376]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2021.08.05-14.45.14:181][376]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2021.08.05-14.45.14:203][376]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2021.08.05-14.45.14:214][376]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2021.08.05-14.45.14:214][376]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2021.08.05-14.45.14:214][376]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2021.08.05-14.45.14:214][376]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2021.08.05-14.45.15:114][376]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2021.08.05-14.45.15:115][376]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2021.08.05-14.45.15:115][376]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2021.08.05-14.45.15:115][376]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2021.08.05-14.45.15:115][376]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2021.08.05-14.45.15:180][376]MemoryProfiler: Shutdown
+[2021.08.05-14.45.15:180][376]NetworkingProfiler: Shutdown
+[2021.08.05-14.45.15:180][376]LoadingProfiler: Shutdown
+[2021.08.05-14.45.15:419][376]TimingProfiler: Shutdown
+[2021.08.05-14.45.15:450][376]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2021.08.05-14.45.15:452][376]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2021.08.05-14.45.15:452][376]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2021.08.05-14.45.15:452][376]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2021.08.05-14.45.15:462][376]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2021.08.05-14.45.15:466][376]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2021.08.05-14.45.15:481][376]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2021.08.05-14.45.15:505][376]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2021.08.05-14.45.15:505][376]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2021.08.05-14.45.15:521][376]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2021.08.05-14.45.15:529][376]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2021.08.05-14.45.15:530][376]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2021.08.05-14.45.15:530][376]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2021.08.05-14.45.15:530][376]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2021.08.05-14.45.15:530][376]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2021.08.05-14.45.15:531][376]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2021.08.05-14.45.15:545][376]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2021.08.05-14.45.15:545][376]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2021.08.05-14.45.15:554][376]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2021.08.05-14.45.15:570][376]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2021.08.05-14.45.15:581][376]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2021.08.05-14.45.15:588][376]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2021.08.05-14.45.15:628][376]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2021.08.05-14.45.15:903][376]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2021.08.05-14.45.15:939][376]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2021.08.05-14.45.16:067][376]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2021.08.05-14.45.16:079][376]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2021.08.05-14.45.16:132][376]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2021.08.05-14.45.16:132][376]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2021.08.05-14.45.16:132][376]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2021.08.05-14.45.16:132][376]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2021.08.05-14.45.16:134][376]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2021.08.05-14.45.16:134][376]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2021.08.05-14.45.16:175][376]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2021.08.05-14.45.16:252][376]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2021.08.05-14.45.16:257][376]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2021.08.05-14.45.16:261][376]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2021.08.05-14.45.16:309][376]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2021.08.05-14.45.16:310][376]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2021.08.05-14.45.16:310][376]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2021.08.05-14.45.16:310][376]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2021.08.05-14.45.16:323][376]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2021.08.05-14.45.16:324][376]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2021.08.05-14.45.16:324][376]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2021.08.05-14.45.16:328][376]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2021.08.05-14.45.16:573][376]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2021.08.05-14.45.16:576][376]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2021.08.05-14.45.16:594][376]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2021.08.05-14.45.16:594][376]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (546)
+[2021.08.05-14.45.16:594][376]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (544)
+[2021.08.05-14.45.16:594][376]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (542)
+[2021.08.05-14.45.16:595][376]LogModuleManager: Shutting down and abandoning module TemplateSequence (540)
+[2021.08.05-14.45.16:595][376]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (538)
+[2021.08.05-14.45.16:595][376]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (536)
+[2021.08.05-14.45.16:595][376]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.08.05-14.45.16:595][376]LogModuleManager: Shutting down and abandoning module Synthesis (532)
